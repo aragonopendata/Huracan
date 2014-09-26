@@ -74,5 +74,5 @@ get '/track/:id/info' do
 end
 
 get '/' do
-  'Aragon Open Data!'
+  erb :index
 end

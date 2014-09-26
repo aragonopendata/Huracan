@@ -1,0 +1,75 @@
+/* =Base
+----------------------------------------------- */
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+html,
+body { height: 100%; }
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font: 400 15px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+
+/* =Icons
+----------------------------------------------- */
+
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+}
+
+.i-distance {
+  background-image: url('../img/distance.png');
+}
+
+.i-time {
+  background: url('../img/time.png');
+}
+
+
+/* =Index
+----------------------------------------------- */
+
+#map {
+  width: 100%;
+  height: 300px;
+}
+
+.result {
+  border-bottom: 1px solid #ccc;
+}
+
+.result:last-child {
+  border-bottom: 0;
+}
+
+
+.result img {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+
+.result-description p {
+  display: inline-block;
+  line-height: 24px;
+}
