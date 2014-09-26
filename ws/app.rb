@@ -30,6 +30,8 @@ end
 
 # return the waypoints with photos in a given track id
 get '/track/:id/photos' do
+  content_type :json
+
   id = params[:id]
 
   wps = JSON.parse(open("#{settings.base_url}/get_waypoints.php?id=#{id}").read)
@@ -44,6 +46,8 @@ get '/track/:id/photos' do
 end
 
 get '/track/:id/altitude_profile' do
+  content_type :json
+
   id = params[:id]
 
   gpxinfo = GPXInfo.new(get_gpx(id))
@@ -51,6 +55,8 @@ get '/track/:id/altitude_profile' do
 end
 
 get '/track/:id/info' do
+  content_type :json
+
   id = params[:id]
 
   GPXInfo.new(get_gpx(id)).distances.to_json
