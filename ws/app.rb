@@ -81,5 +81,5 @@ get '/tracks' do
 end
 
 get '/' do
-  'Aragon Open Data!'
+  erb :index
 end
