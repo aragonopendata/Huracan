@@ -40,7 +40,7 @@ helpers do
 
     g.title = 'Altitude Profile'
     g.theme = Gruff::Themes::GREYSCALE
-    g.line_width = 3
+    g.line_width = 2
 
     distances = []
     altitudes = []
