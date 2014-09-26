@@ -1,0 +1,732 @@
+id,name,area,country,major,men,women,ine,comunidad,comarca
+0,Ababuj,54.3,Spain,"LOPEZ BENDICTO, JOSE CARLOS",49,36,44001,Aragón,Comunidad de Teruel
+1,Abanto,63.8,Spain,"SEBASTIAN PEIRO, Mª ANGELES",86,72,50001,Aragón,Comunidad de Calatayud
+2,Abejuela,86.7,Spain,"CERVERA BARTUAL, VICENTE",32,27,44002,Aragón,Gúdar-Javalambre
+3,Abiego,38.2,Spain,"MONCLUS PUENTE, FELIPE",143,141,22001,Aragón,Somontano de Barbastro
+4,Abizanda,44.8,Spain,"BUESA ABADIAS, JOSÉ",62,70,22002,Aragón,Sobrarbe
+5,Acered,30.4,Spain,"SICILIA GARCIA, CONRADO",129,116,50002,Aragón,Campo de Daroca
+6,Adahuesca,52.5,Spain,"FRANCO GISTAU, FRANCISCO",79,76,22003,Aragón,Somontano de Barbastro
+7,Aguarón,36.6,Spain,"CUCALON BERNAL, LUCIO",376,375,50004,Aragón,Campo de Cariñena
+8,Aguatón,21.6,Spain,JUAN RAMON MIGUEL CARDO MUÑOZ,11,15,44003,Aragón,Comunidad de Teruel
+9,Aguaviva,42.2,Spain,RAFAEL CERVERA MARGELI,338,337,44004,Aragón,Bajo Aragón
+10,Aguilar del Alfambra,39.0,Spain,VICENTE SAN FRANCISCO PARICIO,43,39,44005,Aragón,Comunidad de Teruel
+11,Aguilón,59.5,Spain,"HERRANDO OLIVAN, ANDRES",143,150,50005,Aragón,Campo de Cariñena
+12,Agón,18.5,Spain,"YOLDI MARTINEZ, JUAN CARLOS",105,92,50003,Aragón,Campo de Borja
+13,Agüero,94.2,Spain,"CASTILLO PEREZ, ANTONIO",91,83,22004,Aragón,Hoya de Huesca/Plana de Uesca
+14,Ainzón,40.5,Spain,FRANCISCO JAVIER CORELLA MERLE,635,576,50006,Aragón,Campo de Borja
+15,Alacón,47.5,Spain,"ALQUEZAR ALQUEZAR, ISMAEL DOMINGO",212,210,44006,Aragón,Andorra-Sierra de Arcos
+16,Aladrén,21.1,Spain,"TORRES GARCIA, MIGUEL",44,32,50007,Aragón,Campo de Cariñena
+17,Alagón,24.2,Spain,"BECERRIL GUTIERREZ, JOSE MARIA",2973,2934,50008,Aragón,Ribera Alta del Ebro
+18,Alarba,19.0,Spain,"MORALES SOLER, FRANCISCO",82,63,50009,Aragón,Comunidad de Calatayud
+19,Alba,69.5,Spain,"HERRERO PALOMAR, JOSÉ",127,123,44007,Aragón,Comunidad de Teruel
+20,Albalate de Cinca,44.2,Spain,"CASTILLON SERRATE, JOSE ANTONIO",725,561,22007,Aragón,Cinca Medio
+21,Albalate del Arzobispo,205.7,Spain,"DEL RIO MACIPE, ANTONIO",1107,1094,44008,Aragón,Bajo Martín
+22,Albalatillo,9.1,Spain,"CASAÑA LUNA,JOSÉ ANDRÉS",122,121,22008,Aragón,Los Monegros
+23,Albarracín,452.7,Spain,"MARTI SORIANO, FRANCISCO JESUS",533,512,44009,Aragón,Sierra de Albarracín
+24,Albelda,51.9,Spain,"ROCA LLOP, MARIA ANGELES",460,451,22009,Aragón,La Litera/La Llitera
+25,Albentosa,68.0,Spain,"SALVADOR CORELLA, YOLANDA",167,144,44010,Aragón,Gúdar-Javalambre
+26,Alberite de San Juan,11.2,Spain,"GIMENO LETE, ROBERTO",59,42,50010,Aragón,Campo de Borja
+27,Albero Alto,19.3,Spain,"FERRANDO ORUS, RAMON LORENZO",59,49,22011,Aragón,Hoya de Huesca/Plana de Uesca
+28,Albero Bajo,22.2,Spain,"LOPEZ CIRIA, JAVIER MIGUEL",54,43,22012,Aragón,Los Monegros
+29,Alberuela de Tubo,20.8,Spain,"PONS SERENA, ROSA MARIA",185,176,22013,Aragón,Los Monegros
+30,Albeta,2.7,Spain,"TABUENCA LOPEZ, PEDRO FELICIANO",67,72,50011,Aragón,Campo de Borja
+31,Alborge,4.8,Spain,"LORDA CATALAN, JOSE ANTONIO",72,61,50012,Aragón,Ribera Baja del Ebro
+32,Alcaine,57.4,Spain,"GIL GIL, CIPRIANO",41,28,44011,Aragón,Cuencas Mineras
+33,Alcalá de Ebro,9.9,Spain,"ACHON LOZANO, JOSE MIGUEL",138,154,50013,Aragón,Ribera Alta del Ebro
+34,Alcalá de Gurrea,71.4,Spain,"MINGUIJON PEREZ, MERCEDES",140,144,22014,Aragón,Hoya de Huesca/Plana de Uesca
+35,Alcalá de Moncayo,13.8,Spain,"MELERO MELERO, MACARIO",72,63,50014,Aragón,Tarazona y el Moncayo
+36,Alcalá de la Selva,105.0,Spain,JOSE LUIS TENA MARIN,281,246,44012,Aragón,Gúdar-Javalambre
+37,Alcalá del Obispo,47.8,Spain,FERNANDO VIÑUALES SATUE,184,171,22015,Aragón,Hoya de Huesca/Plana de Uesca
+38,Alcampell,58.0,Spain,"CHAUVELL LARREGOLA, JOSEP ANTON",427,441,22016,Aragón,La Litera/La Llitera
+39,Alcañiz,472.1,Spain,JUAN CARLOS GRACIA SUSO,7212,7171,44013,Aragón,Bajo Aragón
+40,Alcolea de Cinca,83.2,Spain,"LANASPA OLLES, MONICA",651,579,22017,Aragón,Cinca Medio
+41,Alconchel de Ariza,34.9,Spain,"SAEZ BENDICHO, PEDRO",75,60,50015,Aragón,Comunidad de Calatayud
+42,Alcorisa,121.2,Spain,JULIA VICENTE LAPUENTE,1725,1691,44014,Aragón,Bajo Aragón
+43,Alcubierre,115.3,Spain,"AMADOR LACAMBRA, ALVARO ISIDRO",236,212,22018,Aragón,Los Monegros
+44,Aldehuela de Liestos,38.0,Spain,"MUÑOZ MUÑOZ, ARCADIO",19,18,50016,Aragón,Campo de Daroca
+45,Alerre,8.9,Spain,"SANTOLARIA ALASTRUE, FRANCISCO",110,110,22019,Aragón,Hoya de Huesca/Plana de Uesca
+46,Alfajarín,137.6,Spain,"VERGE SALVADO, FRANCISCO",818,793,50017,Aragón,D.C. Zaragoza
+47,Alfambra,122.4,Spain,FRANCISCO ABRIL GALVE,324,305,44016,Aragón,Comunidad de Teruel
+48,Alfamén,102.0,Spain,"GIL ARNAL, ALEJANDRO JESUS",860,638,50018,Aragón,Campo de Cariñena
+49,Alforque,10.6,Spain,"CATALAN GIMENEZ, ANTONIO",47,38,50019,Aragón,Ribera Baja del Ebro
+50,Alfántega,8.8,Spain,"FUMANAL ESPIER, LUIS",54,53,22020,Aragón,Cinca Medio
+51,Alhama de Aragón,31.1,Spain,"CASTEJON MOZOTA, JOSE Mª",576,574,50020,Aragón,Comunidad de Calatayud
+52,Aliaga,196.8,Spain,"UCHE GIL, SERGIO",215,174,44017,Aragón,Cuencas Mineras
+53,Allepuz,67.3,Spain,"VILLARROYA MOYA, JOAQUIN MANUEL",67,70,44021,Aragón,Maestrazgo
+54,Alloza,81.6,Spain,MIGUEL ANGEL LORENZO ARANDA LAFOZ,349,354,44022,Aragón,Andorra-Sierra de Arcos
+55,Allueva,18.7,Spain,"BLASCO PARACUELLOS, GREGORIO",10,4,44023,Aragón,Jiloca
+56,Almochuel,32.0,Spain,"GASCON MOLINER, ANGEL",26,23,50021,Aragón,Campo de Belchite
+57,Almohaja,25.6,Spain,"SIMON DOMINGUEZ, TOMAS",18,13,44018,Aragón,Comunidad de Teruel
+58,Almolda (La),131.3,Spain,"OLONA BLASCO, MARIA ISABEL",330,323,50022,Aragón,Los Monegros
+59,Almonacid de la Cuba,55.2,Spain,"JALLE RUPEREZ, GREGORIO",158,154,50023,Aragón,Campo de Belchite
+60,Almonacid de la Sierra,54.1,Spain,"COMPES MARTINEZ, FRANCISCO",471,410,50024,Aragón,Valdejalón
+61,Almudévar,201.5,Spain,"LABARTA ATAREZ, ANTONIO",1191,1114,22021,Aragón,Hoya de Huesca/Plana de Uesca
+62,Almunia de Doña Godina (La),56.7,Spain,"HERRAIZ FRANCO, VICTORIANO",3325,3028,50025,Aragón,Valdejalón
+63,Almunia de San Juan,35.7,Spain,"SOLANS TORRES, JOSE ANGEL",344,327,22022,Aragón,Cinca Medio
+64,Almuniente,37.6,Spain,"MONESMA DELGADO, JOAQUIN",288,283,22023,Aragón,Los Monegros
+65,Alobras,30.7,Spain,"SORIANO RODRIGUEZ, AVELINO",46,38,44019,Aragón,Comunidad de Teruel
+66,Alpartir,27.1,Spain,"GIMENO HERNANDEZ, MARTA",315,285,50026,Aragón,Valdejalón
+67,Alpeñés,28.6,Spain,"MARCO ARNAL, VICTOR",18,10,44020,Aragón,Comunidad de Teruel
+68,Alquézar,32.4,Spain,"ALTEMIR LASCORZ, JOSE MARIANO",169,146,22024,Aragón,Somontano de Barbastro
+69,Altorricón,32.4,Spain,"PLANA MARSAL, SALVADOR",779,685,22025,Aragón,La Litera/La Llitera
+70,Ambel,61.5,Spain,"MONTORIO SANJUAN, OSCAR",150,186,50027,Aragón,Campo de Borja
+71,Anadón,24.6,Spain,"GARCIA ROCHE, LUIS",12,7,44024,Aragón,Cuencas Mineras
+72,Andorra,141.4,Spain,SOFÍA CIÉRCOLES BIELSA,4088,3781,44025,Aragón,Andorra-Sierra de Arcos
+73,Anento,21.5,Spain,"CARTIEL MONTALVO, ENRIQUE",134,79,50028,Aragón,Campo de Daroca
+74,Angüés,56.5,Spain,"MORENO GALLARDO, ANTONIO",234,193,22027,Aragón,Hoya de Huesca/Plana de Uesca
+75,Aniñón,52.5,Spain,"SEBASTIAN ROY, JOSE MANUEL",457,391,50029,Aragón,Comunidad de Calatayud
+76,Ansó,223.1,Spain,"IPAS BARBA, FELIX",257,272,22028,Aragón,La Jacetania
+77,Antillón,22.4,Spain,"FERRANDO FERRANDO, JOSE LUIS",79,77,22029,Aragón,Hoya de Huesca/Plana de Uesca
+78,Aragüés del Puerto,64.4,Spain,"IPAS ARIGUEL, MARIA TERESA",82,60,22032,Aragón,La Jacetania
+79,Aranda de Moncayo,91.2,Spain,"CABRERA RUIZ, Mª ROSARIO",124,104,50031,Aragón,Aranda
+80,Arcos de las Salinas,113.0,Spain,"ALVIR MARTINEZ, JOSE LUIS",66,71,44026,Aragón,Gúdar-Javalambre
+81,Ardisa,27.3,Spain,"PALACIO MARCO, ANGELES",44,36,50033,Aragón,Cinco Villas
+82,Arens de Lledó,34.3,Spain,"QUEROL TALLADA, MARÍA TERESA",106,122,44027,Aragón,Matarraña/Matarranya
+83,Argavieso,9.7,Spain,"SOLER NAVARRO, MONICA",71,60,22036,Aragón,Hoya de Huesca/Plana de Uesca
+84,Argente,69.2,Spain,"GIMENO TOLOSA, ANTONIO",136,127,44028,Aragón,Comunidad de Teruel
+85,Arguis,62.8,Spain,"LANASPA RODRIGUEZ, SERGIO",33,28,22037,Aragón,Hoya de Huesca/Plana de Uesca
+86,Ariza,103.1,Spain,"TIRADO BAYANO, JOSÉ CARLOS",696,641,50034,Aragón,Comunidad de Calatayud
+87,Ariño,81.9,Spain,"NOE SERRANO, JOAQUIN",465,432,44029,Aragón,Andorra-Sierra de Arcos
+88,Artieda,13.6,Spain,"JIMENEZ PUENTE, JAVIER",62,42,50035,Aragón,La Jacetania
+89,Arándiga,50.2,Spain,"DOMINGO PEREZ, CONRADO",234,225,50032,Aragón,Comunidad de Calatayud
+90,Arén,119.3,Spain,"GRACIA FERRER, MIGUEL",194,176,22035,Aragón,La Ribagorza
+91,Asín,18.5,Spain,"GARCES BURGUETE, ROGELIO",52,58,50036,Aragón,Cinco Villas
+92,Atea,34.7,Spain,"HERRERO LORENTE, SAUL PEDRO",109,82,50037,Aragón,Campo de Daroca
+93,Ateca,84.7,Spain,"DUCE BORAU, FERNANDO JOSÉ",1010,1019,50038,Aragón,Comunidad de Calatayud
+94,Ayerbe,63.9,Spain,"MARCO VINUE, CARLOS JESUS",549,532,22039,Aragón,Hoya de Huesca/Plana de Uesca
+95,Azaila,81.4,Spain,ADOLFO TESAN BIELSA,98,69,44031,Aragón,Bajo Martín
+96,Azanuy-Alins,51.2,Spain,"BLANC MARQUES, ENRIQUE JOSE",80,93,22040,Aragón,La Litera/La Llitera
+97,Azara,14.5,Spain,"LARROYA DOMPER, JERONIMO SANTOS",104,103,22041,Aragón,Somontano de Barbastro
+98,Azlor,15.9,Spain,"DE PABLO MELERO, MARIA ISABEL",77,80,22042,Aragón,Somontano de Barbastro
+99,Azuara,165.8,Spain,"ALCONCHEL FLETA, JOAQUIN IGNACIO",348,304,50039,Aragón,Campo de Belchite
+100,Aínsa-Sobrarbe,284.8,Spain,"CHELIZ PEREZ, JOSE MIGUEL",912,818,22907,Aragón,Sobrarbe
+101,Aísa,81.0,Spain,"GALINDO GIL, JOSE LUIS",227,184,22006,Aragón,La Jacetania
+102,Añón de Moncayo,64.2,Spain,"ABADÍA PÉREZ, PEDRO RAMIRO",163,121,50030,Aragón,Tarazona y el Moncayo
+103,Badules,20.1,Spain,"ESPINOSA RAMIRO, ALEJANDRO",58,52,50040,Aragón,Campo de Daroca
+104,Baells,39.8,Spain,"SOLANA SALAS, ANTONIO",77,58,22043,Aragón,La Litera/La Llitera
+105,Bagüés,30.7,Spain,"CASTILLO ALASTUEY, ASCENSION",25,20,50041,Aragón,Cinco Villas
+106,Bailo,164.4,Spain,"CASTAN PIEDRAFITA, PABLO LORENZO",159,109,22044,Aragón,La Jacetania
+107,Balconchán,19.4,Spain,"SAZ BELLO, JESUS",10,13,50042,Aragón,Campo de Daroca
+108,Baldellou,30.4,Spain,JESUS ENRIQUE LUMBIARRES PUSO,74,58,22045,Aragón,La Litera/La Llitera
+109,Ballobar,127.7,Spain,"PASCUAL ISABAL, MERCEDES REYES",502,495,22046,Aragón,Bajo Cinca/Baix Cinca
+110,Banastás,4.7,Spain,"GRACIA BANZO, ANGEL",110,105,22047,Aragón,Hoya de Huesca/Plana de Uesca
+111,Barbastro,107.6,Spain,"COSCULLUELA BERGUA, ANTONIO JOSE",7576,7914,22048,Aragón,Somontano de Barbastro
+112,Barbués,19.6,Spain,"BAILO CASTRO, JOSE SINESIO",60,52,22049,Aragón,Los Monegros
+113,Barbuñales,18.7,Spain,"COLUNGO HERRAN, MANUEL",56,58,22050,Aragón,Somontano de Barbastro
+114,Bardallur,27.3,Spain,"DOMINGUEZ SANTOS, JOSE MIGUEL",132,146,50044,Aragón,Valdejalón
+115,Barrachina,24.9,Spain,"ZABAL CORBATON, ANTONIO AGUSTIN",83,73,44035,Aragón,Jiloca
+116,Bañón,54.3,Spain,"SANCHO MARCO, JOSÉ ANGEL",92,75,44034,Aragón,Jiloca
+117,Bea,23.4,Spain,"NUÑO PLANAS, VICTOR",20,16,44036,Aragón,Jiloca
+118,Beceite,96.7,Spain,"MORAGREGA JULIAN, ALBERTO",314,294,44037,Aragón,Matarraña/Matarranya
+119,Belchite,273.7,Spain,"ORTIZ ALVAREZ, MARIA ANGELES",809,761,50045,Aragón,Campo de Belchite
+120,Bello,52.5,Spain,"BARRADO LIDON, JAIME",166,189,44039,Aragón,Jiloca
+121,Belmonte de Gracián,43.7,Spain,"PEREZ CUBERO, JOSE CARLOS",144,118,50046,Aragón,Comunidad de Calatayud
+122,Belmonte de San José,34.0,Spain,JOSE JAVIER DE MIGUEL MARTIN,79,66,44038,Aragón,Bajo Aragón
+123,Belver de Cinca,82.6,Spain,"ALEGRE ESTARAN, JESUS",750,622,22052,Aragón,Bajo Cinca/Baix Cinca
+124,Benabarre,157.1,Spain,"SANCHO GUARDIA, ALFREDO",582,530,22053,Aragón,La Ribagorza
+125,Benasque,233.6,Spain,"GABAS ARIÑO, MARIA LUZ",979,853,22054,Aragón,La Ribagorza
+126,Berbegal,49.0,Spain,"PUYUELO LOPEZ, MIGUEL ANGEL",235,228,22055,Aragón,Somontano de Barbastro
+127,Berdejo,19.4,Spain,"ESCRIBANO RUBIO, FERNANDO",39,26,50047,Aragón,Comunidad de Calatayud
+128,Berge,42.6,Spain,"MARTIN EJARQUE, DANIEL",123,121,44040,Aragón,Bajo Aragón
+129,Berrueco,19.5,Spain,"BALLESTIN GIMENO, MARIA CARMEN",25,20,50048,Aragón,Campo de Daroca
+130,Bezas,26.3,Spain,"ALONSO MARTINEZ, ALEJANDRO",43,31,44041,Aragón,Sierra de Albarracín
+131,Biel,130.7,Spain,"LASHERAS MARCO, JOSE LUIS",120,93,50901,Aragón,Cinco Villas
+132,Bielsa,202.4,Spain,"ESCALONA ESTEVEZ, ANTONIO",243,222,22057,Aragón,Sobrarbe
+133,Bierge,145.0,Spain,"RUFAS FANLO, RAUL",138,110,22058,Aragón,Somontano de Barbastro
+134,Biescas,189.1,Spain,"ESTAUN GARCIA, LUIS SEBASTIAN",701,611,22059,Aragón,Alto Gállego
+135,Bijuesca,57.1,Spain,"MARIN RUBIO, ANGEL MILLAN",73,50,50050,Aragón,Comunidad de Calatayud
+136,Binaced,78.5,Spain,MATILDE HERBERA IBARZ,925,779,22060,Aragón,Cinca Medio
+137,Binéfar,25.1,Spain,"AQUILUE FRAGO, AGUSTIN",4422,4217,22061,Aragón,La Litera/La Llitera
+138,Biota,128.8,Spain,"ABAD TORRERO, MARIANO",604,575,50051,Aragón,Cinco Villas
+139,Bisaurri,62.9,Spain,EDUARDO GRACIA ARAZO,126,109,22062,Aragón,La Ribagorza
+140,Biscarrués,30.2,Spain,"TORRALBA MARCUELLO, JOSE",123,107,22063,Aragón,Hoya de Huesca/Plana de Uesca
+141,Bisimbre,11.2,Spain,"ROYO GABAS, PEDRO ANTONIO",53,69,50052,Aragón,Campo de Borja
+142,Blancas,73.8,Spain,ALBERTO CRISTOBAL FERNANDEZ SANZ,103,75,44042,Aragón,Jiloca
+143,Blecua y Torres,36.2,Spain,"ZAMORA BARUQUER, JOSE MARIA",107,83,22064,Aragón,Hoya de Huesca/Plana de Uesca
+144,Blesa,80.4,Spain,"COLERA HERRANZ, MARIA ANGELES",85,54,44043,Aragón,Cuencas Mineras
+145,Boltaña,139.5,Spain,"SALAMERO VILLACAMPA, JOSE MANUEL",429,409,22066,Aragón,Sobrarbe
+146,Bonansa,37.3,Spain,MARCELINO IGLESIAS CUARTERO,52,45,22067,Aragón,La Ribagorza
+147,Boquiñeni,18.9,Spain,"SANJUAN PEREZ, MIGUEL ANGEL",505,490,50053,Aragón,Ribera Alta del Ebro
+148,Borau,41.7,Spain,DANIEL LÓPEZ PÉREZ,43,33,22068,Aragón,La Jacetania
+149,Bordalba,41.6,Spain,"ESTERAS ESTERAS, ANTONIO",55,39,50054,Aragón,Comunidad de Calatayud
+150,Bordón,30.0,Spain,ESTHER MEDINA PRATS,72,62,44044,Aragón,Maestrazgo
+151,Borja,107.3,Spain,"ARILLA ANDIA, FRANCISCO MIGUEL",2137,2176,50055,Aragón,Campo de Borja
+152,Botorrita,19.8,Spain,"ALIAGA PEREZ, JUAN ANTONIO",245,220,50056,Aragón,D.C. Zaragoza
+153,Brea de Aragón,13.4,Spain,"GARCÍA ASENSIO, RAÚL",1026,973,50057,Aragón,Aranda
+154,Bronchales,59.6,Spain,FRANCISCO NACHER DOBON,253,226,44045,Aragón,Sierra de Albarracín
+155,Broto,128.0,Spain,"MURO GRACIA, MARIA DEL CARMEN",275,249,22069,Aragón,Sobrarbe
+156,Bubierca,29.5,Spain,"BORQUE CUBERO, ANTONIO",48,45,50058,Aragón,Comunidad de Calatayud
+157,Bueña,40.7,Spain,"IBAÑEZ GIMENO, SERGIO",46,41,44046,Aragón,Jiloca
+158,Bujaraloz,120.9,Spain,"ROZAS FERRER, CARMELO JESUS",530,476,50059,Aragón,Los Monegros
+159,Bulbuente,25.4,Spain,"SERRANO BOROBIA, JOSE MIGUEL",133,110,50060,Aragón,Campo de Borja
+160,Burbáguena,39.0,Spain,JUAN PABLO FIDALGO FIDALGO,139,158,44047,Aragón,Jiloca
+161,Bureta,11.9,Spain,"BOROBIA MARTINEZ, JESUS DOMINGO",161,149,50061,Aragón,Campo de Borja
+162,Burgo de Ebro (El),24.9,Spain,"GIRON PEREZ, MIGUEL ANGEL",873,822,50062,Aragón,D.C. Zaragoza
+163,Buste (El),7.6,Spain,"GIL BARCELÓ, JOAQUÍN PEDRO",50,51,50063,Aragón,Tarazona y el Moncayo
+164,Bádenas,31.3,Spain,"SAN MIGUEL GURRIA, SAMUEL",11,6,44032,Aragón,Jiloca
+165,Báguena,25.2,Spain,"SANZ SÁNCHEZ, JESÚS",226,215,44033,Aragón,Jiloca
+166,Bárboles,15.7,Spain,"PARDOS SIERRA, MIGUEL ANGEL",175,152,50043,Aragón,Ribera Alta del Ebro
+167,Bárcabo,87.9,Spain,"LALUEZA GIRAL, CARMEN",60,47,22051,Aragón,Sobrarbe
+168,Cabañas de Ebro,8.5,Spain,"MEDRANO PALACIOS, NICOLAS",270,247,50064,Aragón,Ribera Alta del Ebro
+169,Cabolafuente,39.2,Spain,"SOLER CUNCHILLOS, JULIAN",39,31,50065,Aragón,Comunidad de Calatayud
+170,Cabra de Mora,34.3,Spain,"DE LA POZA MORENO, MANUEL",63,48,44048,Aragón,Gúdar-Javalambre
+171,Cadrete,11.9,Spain,"CAMPILLOS VIÑAS, MARIA ANGELES",1026,890,50066,Aragón,D.C. Zaragoza
+172,Calaceite,81.3,Spain,JOSE MARIA SALSENCH MESTRE (IND),601,557,44049,Aragón,Matarraña/Matarranya
+173,Calamocha,316.6,Spain,"PERIBAÑEZ PEIRO, JOAQUÍN",2107,2091,44050,Aragón,Jiloca
+174,Calanda,112.2,Spain,JOSE RAMON IBAÑEZ BLASCO,1835,1730,44051,Aragón,Bajo Aragón
+175,Calatayud,154.2,Spain,"ARANDA LASSA, JOSE MANUEL",9553,9726,50067,Aragón,Comunidad de Calatayud
+176,Calatorao,48.1,Spain,"ISLA SUBIAS, JESUS MARIA",1630,1356,50068,Aragón,Valdejalón
+177,Calcena,64.7,Spain,"MIGUEL SAN CLAUDIO, MARIANO",37,34,50069,Aragón,Aranda
+178,Caldearenas,192.3,Spain,ALEJANDRO CASTAN GARCES,146,117,22072,Aragón,Alto Gállego
+179,Calmarza,28.1,Spain,"MONJE ESCOLANO, JOSE VICENTE",46,42,50070,Aragón,Comunidad de Calatayud
+180,Calomarde,28.2,Spain,"HERNANDEZ BARRERA, RODOLFO ANDRES",42,31,44052,Aragón,Sierra de Albarracín
+181,Camarena de la Sierra,79.5,Spain,"GIMENO GIL, RAMON",89,77,44054,Aragón,Gúdar-Javalambre
+182,Camarillas,50.5,Spain,"SANGÜESA JOSA, DIEGO",59,44,44055,Aragón,Comunidad de Teruel
+183,Camañas,78.7,Spain,"GUILLEN BENEDICTO, MIGUEL ANGEL",94,54,44053,Aragón,Comunidad de Teruel
+184,Caminreal,44.4,Spain,JOAQUIN ROMERO SANCHEZ,387,374,44056,Aragón,Jiloca
+185,Campillo de Aragón,36.9,Spain,"BUENO SANCHEZ, JAVIER",98,79,50071,Aragón,Comunidad de Calatayud
+186,Campo,22.9,Spain,"ECHART BALLARIN, JOSE EUSEBIO",142,162,22074,Aragón,La Ribagorza
+187,Camporrells,26.7,Spain,"ANTILLACH BERGUA, PASCUAL LUIS",126,115,22075,Aragón,La Litera/La Llitera
+188,Canal de Berdún,133.3,Spain,"PÉREZ FRANCO, FRANCISCO JAVIER",222,180,22076,Aragón,La Jacetania
+189,Candasnos,122.4,Spain,"ALTABAS QUEROL, ELADIO",254,235,22077,Aragón,Bajo Cinca/Baix Cinca
+190,Canfranc,71.6,Spain,"SANCHEZ MORALES, FERNANDO",292,240,22078,Aragón,La Jacetania
+191,Cantavieja,124.6,Spain,RICARDO ALTABÁS TENA,385,337,44059,Aragón,Maestrazgo
+192,Capdesaso,17.7,Spain,"JAIME LANA, CLEMENTE",75,91,22079,Aragón,Los Monegros
+193,Capella,60.7,Spain,"BALDELLOU ESPAÑOL, SERGIO",195,193,22080,Aragón,La Ribagorza
+194,Carenas,31.2,Spain,"CASADO RUBIO, MANUEL",114,122,50072,Aragón,Comunidad de Calatayud
+195,Cariñena,82.5,Spain,"ORTIZ GUTIERREZ, SERGIO",1847,1564,50073,Aragón,Campo de Cariñena
+196,Casbas de Huesca,132.7,Spain,"VIU BESCOS, Mª PILAR",158,137,22081,Aragón,Hoya de Huesca/Plana de Uesca
+197,Cascante del Río,32.4,Spain,"JIMENEZ GARCIA, JULIO",65,49,44064,Aragón,Comunidad de Teruel
+198,Caspe,503.2,Spain,"HERRERO POBLADOR, PILAR",3757,3830,50074,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+199,Castejón de Alarba,17.6,Spain,"PEIRO ROY, FELIX",55,46,50075,Aragón,Comunidad de Calatayud
+200,Castejón de Monegros,165.3,Spain,"PUEY CAMPOS, ANA MARIA",360,336,22083,Aragón,Los Monegros
+201,Castejón de Sos,31.8,Spain,"ABAD SAURA, JOSE MANUEL",356,323,22084,Aragón,La Ribagorza
+202,Castejón de Tornos,30.9,Spain,"CALVO VICENTE, PASCUAL",54,37,44065,Aragón,Jiloca
+203,Castejón de Valdejasa,110.1,Spain,"PRADO ARRIETA, JESUS",164,153,50077,Aragón,Cinco Villas
+204,Castejón de las Armas,16.2,Spain,"MARTINEZ BASTAROS, ARTURO JUAN",53,52,50076,Aragón,Comunidad de Calatayud
+205,Castejón del Puente,25.4,Spain,"COMPS ENCUENTRA, ANTONIO",221,199,22082,Aragón,Somontano de Barbastro
+206,Castel de Cabra,29.4,Spain,"RODRIGUEZ PEREZ, FRANCISCO",81,76,44066,Aragón,Cuencas Mineras
+207,Castelflorite,34.8,Spain,"LOSCERTALES NOGUES, PEDRO MANUEL",70,63,22085,Aragón,Los Monegros
+208,Castellar (El),50.3,Spain,"PEREZ GUILLEN, MODESTO",50,37,44070,Aragón,Gúdar-Javalambre
+209,Castellote,233.2,Spain,"MILLAN PIQUER, RAMON",424,381,44071,Aragón,Maestrazgo
+210,Castelnou,37.1,Spain,"ESTERUELAS LIZANO, JOSE MIGUEL",57,50,44067,Aragón,Bajo Martín
+211,Castelserás,31.5,Spain,ANGELA MONTAÑES SERRANO,443,388,44068,Aragón,Bajo Aragón
+212,Castiello de Jaca,17.3,Spain,"SALESA PUENTE, JOSE ALVARO",98,82,22086,Aragón,La Jacetania
+213,Castigaleu,26.5,Spain,"CIUTAD ADILLON, HIGINIO",65,49,22087,Aragón,La Ribagorza
+214,Castiliscar,40.7,Spain,"BUENO OLORIZ, JOSE IGNACIO",200,184,50078,Aragón,Cinco Villas
+215,Castillazuelo,15.3,Spain,"MUZAS ROYO, JOAQUIN",105,118,22088,Aragón,Somontano de Barbastro
+216,Castillonroy,37.6,Spain,"FONDEVILLA AGUILAR, ANTONIO",198,214,22089,Aragón,La Litera/La Llitera
+217,Cañada Vellida,23.3,Spain,"MORTE MORTE, HERMENEGILDO",36,16,44062,Aragón,Comunidad de Teruel
+218,Cañada de Benatanduz,34.9,Spain,"MONSERRATE PLANA, JUAN ANTONIO",36,24,44060,Aragón,Maestrazgo
+219,Cañada de Verich (La),10.9,Spain,"INSA VALLÉS, JOSÉ MANUEL",59,47,44061,Aragón,Bajo Aragón
+220,Cañizar del Olivar,18.5,Spain,YASMINA CUESTA MIMBRERO,59,58,44063,Aragón,Cuencas Mineras
+221,Cedrillas,73.6,Spain,"LOPEZ SAEZ, JOSE LUIS",261,256,44074,Aragón,Comunidad de Teruel
+222,Celadas,100.5,Spain,"CLEMENTE MUÑOZ, RAQUEL",230,190,44075,Aragón,Comunidad de Teruel
+223,Cella,124.7,Spain,"PEREZ ESTEBAN, Mª JESUS",1457,1348,44076,Aragón,Comunidad de Teruel
+224,Cerollera (La),33.7,Spain,"ARRUFAT GASCON, ANTONIO ERNESTO",65,51,44077,Aragón,Bajo Aragón
+225,Cervera de la Cañada,29.2,Spain,"ROYO GOMEZ, PASCUAL",166,164,50079,Aragón,Comunidad de Calatayud
+226,Cerveruela,23.5,Spain,"ANDRES CEBOLLADA, AURELIO",19,6,50080,Aragón,Campo de Daroca
+227,Cetina,79.1,Spain,"VELAZQUEZ HERNANDEZ, JOSE MIGUEL",335,355,50081,Aragón,Comunidad de Calatayud
+228,Chalamera,11.5,Spain,"BAYONA BAYONA, JOAQUIN",83,65,22094,Aragón,Bajo Cinca/Baix Cinca
+229,Chimillas,10.0,Spain,"RAMIRO CONTRERAS, JUAN MANUEL",128,118,22096,Aragón,Hoya de Huesca/Plana de Uesca
+230,Chiprana,39.0,Spain,"NICOLAS GARCIA, FRANCISCO JAVIER",194,189,50092,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+231,Chodes,16.0,Spain,"PEREZ POLO, CESAR",55,62,50093,Aragón,Valdejalón
+232,Chía,26.1,Spain,"BARRAU PALLARUELO, ENRIQUE",59,50,22095,Aragón,La Ribagorza
+233,Cimballa,31.9,Spain,"ROY ENGUITA, CECILIO ELOY",76,80,50082,Aragón,Comunidad de Calatayud
+234,Cinco Olivas,2.3,Spain,"SALVADOR ALCAYA, FELISA",60,63,50083,Aragón,Ribera Baja del Ebro
+235,Clarés de Ribota,18.7,Spain,"BRUN PORTERO, CESAREO",54,48,50084,Aragón,Comunidad de Calatayud
+236,Codo,11.4,Spain,"LAPUERTA BARBA, JESUS ALBERTO",117,117,50085,Aragón,Campo de Belchite
+237,Codos,62.7,Spain,"CRESPO GIMENO, MIGUEL",176,107,50086,Aragón,Comunidad de Calatayud
+238,Codoñera (La),21.0,Spain,"GASCON CASES, Mª JOSE",178,158,44080,Aragón,Bajo Aragón
+239,Colungo,40.6,Spain,"RUBIELLA CORONAS, JORGE",74,65,22090,Aragón,Somontano de Barbastro
+240,Contamina,13.7,Spain,"MORENTE ARCOS, JOSE MARIA",33,21,50087,Aragón,Comunidad de Calatayud
+241,Corbalán,82.4,Spain,"GONZALEZ CASAS, VICENTE FELIPE",51,41,44082,Aragón,Comunidad de Teruel
+242,Cortes de Aragón,24.4,Spain,"ROYO GRACIA, MIGUEL",59,57,44084,Aragón,Cuencas Mineras
+243,Cosa,54.8,Spain,"GARZON SANCHEZ, MARCOS",51,45,44085,Aragón,Jiloca
+244,Cosuenda,31.7,Spain,"LORENTE SEBASTIAN, OSCAR",208,188,50088,Aragón,Campo de Cariñena
+245,Cretas,52.7,Spain,"CAMPS JUAN, FERNANDO JAVIER",317,302,44086,Aragón,Matarraña/Matarranya
+246,Crivillén,42.0,Spain,"LECINA ORTIN, Mª JOSEFA",61,55,44087,Aragón,Andorra-Sierra de Arcos
+247,Cuarte de Huerva,8.9,Spain,"PEREZ PEREZ, JESUS",1178,1071,50089,Aragón,D.C. Zaragoza
+248,Cuba (La),6.5,Spain,"MARIN ANDRES, FELIX",28,27,44088,Aragón,Maestrazgo
+249,Cubel,58.6,Spain,"TORNOS BAQUEDANO, ANGEL",100,107,50090,Aragón,Campo de Daroca
+250,Cubla,48.6,Spain,ANGELES GÓMEZ NAVARRO,27,18,44089,Aragón,Comunidad de Teruel
+251,Cucalón,31.9,Spain,"ROCHE GIMENO, JULIAN",49,37,44090,Aragón,Jiloca
+252,Cuerlas (Las),32.6,Spain,"GUILLEN CANTIN, MIGUEL ANGEL",51,49,50091,Aragón,Campo de Daroca
+253,Cuervo (El),20.8,Spain,SONIA CASINO NAVARRETE,60,54,44092,Aragón,Comunidad de Teruel
+254,Cuevas Labradas,40.8,Spain,JUAN FRANCISCO ARGENTE HERRERO,78,73,44094,Aragón,Comunidad de Teruel
+255,Cuevas de Almudén,35.8,Spain,MARIA FRANCISCA MARZO FOL,57,48,44093,Aragón,Cuencas Mineras
+256,Daroca,52.0,Spain,MIGUEL GARCIA CORTES,1057,1042,50094,Aragón,Campo de Daroca
+257,Ejea de los Caballeros,609.9,Spain,"LAMBAN MONTAÑES, FRANCISCO JAVIER",8507,7742,50095,Aragón,Cinco Villas
+258,Ejulve,109.5,Spain,"SALVADOR MINGUILLÓN, JOSÉ MANUEL",114,108,44096,Aragón,Andorra-Sierra de Arcos
+259,Embid de Ariza,41.3,Spain,"MARISCAL HORNA, JOAQUIN",61,42,50096,Aragón,Comunidad de Calatayud
+260,Encinacorba,36.7,Spain,"CASANOVA GASCA, JESUS MARTIN",161,150,50098,Aragón,Campo de Cariñena
+261,Erla,19.0,Spain,"ANGOY TRULLENQUE, JOSE MANUEL",219,226,50100,Aragón,Cinco Villas
+262,Escatrón,94.6,Spain,"AGUERRI PUEL, Mª CARMEN",576,613,50101,Aragón,Ribera Baja del Ebro
+263,Escorihuela,57.0,Spain,"GIMENEZ MARQUES, MILAGROS AGRIPINA",102,96,44097,Aragón,Comunidad de Teruel
+264,Escucha,41.6,Spain,"CARBO CABAÑERO, JAVIER",609,492,44099,Aragón,Cuencas Mineras
+265,Esplús,73.0,Spain,"LALANA SUELVES, EDUARDO",357,374,22099,Aragón,La Litera/La Llitera
+266,Estada,15.9,Spain,JOSE Mª BAFALUY COLOMINA,98,87,22102,Aragón,Somontano de Barbastro
+267,Estadilla,46.8,Spain,"FACERIAS SANCHO, JAIME FRANCISCO",444,442,22103,Aragón,Somontano de Barbastro
+268,Estercuel,55.6,Spain,JOSE LAHOZ LAHOZ,164,152,44100,Aragón,Andorra-Sierra de Arcos
+269,Estopiñán del Castillo,88.7,Spain,"LARREGOLA FERRER, AGUSTIN JOSE",133,94,22105,Aragón,La Ribagorza
+270,Fabara,101.6,Spain,"DOMENECH VILLAGRASA, FRANCISCO JAVIER",642,556,50102,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+271,Fago,28.8,Spain,"BARCOS BARCOS, ENRIQUE",21,12,22106,Aragón,La Jacetania
+272,Fanlo,187.1,Spain,"PALACIO SESE, HORACIO",110,72,22107,Aragón,Sobrarbe
+273,Farlete,104.1,Spain,"AZARA FUSTERO, HECTOR",221,230,50104,Aragón,Los Monegros
+274,Fayos (Los),3.9,Spain,"ALONSO COLOMA, JOSE ANGEL",89,90,50106,Aragón,Tarazona y el Moncayo
+275,Fayón,67.2,Spain,"ARBONES VICENTE, JOSE",200,181,50105,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+276,Ferreruela de Huerva,20.4,Spain,EMERINDA RAMONA JAIME HERNANDEZ,43,35,44101,Aragón,Jiloca
+277,Figueruelas,17.0,Spain,"BERTOL MORENO, LUIS",541,542,50107,Aragón,Ribera Alta del Ebro
+278,Fiscal,170.1,Spain,"LARROSA ESCARTIN, MANUEL",143,108,22109,Aragón,Sobrarbe
+279,Fombuena,26.4,Spain,"MAINAR ULLATE, CARLOS JAIME",12,3,50108,Aragón,Campo de Daroca
+280,Fonfría,20.6,Spain,"LAHOZ GARGALLO, JESUS RICARDO",17,12,44102,Aragón,Jiloca
+281,Fonz,55.5,Spain,"FERRER PEROSTES, JOSE TEODORO",538,541,22110,Aragón,Cinca Medio
+282,Foradada del Toscar,106.4,Spain,"SENZ GABAS, JOAQUIN",108,112,22111,Aragón,La Ribagorza
+283,Formiche Alto,78.2,Spain,"ESCRICHE GARGALLO, JOSE LUIS",102,95,44103,Aragón,Gúdar-Javalambre
+284,Fortanete,168.2,Spain,"MONSERRATE GIL, JOSÉ LUIS",98,88,44106,Aragón,Maestrazgo
+285,Foz-Calanda,37.9,Spain,MARCELINO MALO MARTINEZ,143,120,44107,Aragón,Bajo Aragón
+286,Fraga,437.6,Spain,"ESCANDIL SOLANES, SANTIAGO MIGUEL",6667,6201,22112,Aragón,Bajo Cinca/Baix Cinca
+287,Frago (El),33.8,Spain,"ROMEO BERGES, FRANCISCO JAVIER",75,49,50109,Aragón,Cinco Villas
+288,Frasno (El),48.6,Spain,"PABLO MELUS, AURELIO",285,250,50110,Aragón,Comunidad de Calatayud
+289,Fresneda (La),39.5,Spain,"GIMENO AGUILAR, JOSE RAMON",249,202,44108,Aragón,Matarraña/Matarranya
+290,Fréscano,18.4,Spain,"CUARTERO TABUENCA, JOSE VALENTIN",111,112,50111,Aragón,Campo de Borja
+291,Frías de Albarracín,50.8,Spain,JOSÉ CARLOS NOVELLA LASHERAS,83,73,44109,Aragón,Sierra de Albarracín
+292,Fuendejalón,75.8,Spain,"GARCIA AZNAR, LUIS ANTONIO",406,388,50113,Aragón,Campo de Borja
+293,Fuendetodos,62.2,Spain,"GIMENO SALUEÑA, JOAQUIN",95,83,50114,Aragón,Campo de Belchite
+294,Fuenferrada,24.5,Spain,JOSE ANTONIO DOMINGO FRANCO,24,22,44110,Aragón,Cuencas Mineras
+295,Fuentes Calientes,25.0,Spain,"FERRER ARANDIA, JOSÉ LUIS",70,57,44111,Aragón,Comunidad de Teruel
+296,Fuentes Claras,36.9,Spain,"SANCHEZ ROMERO, JOAQUIN",291,298,44112,Aragón,Jiloca
+297,Fuentes de Ebro,141.7,Spain,"PALACIN MIGUEL, MARIA PILAR",2120,1895,50115,Aragón,D.C. Zaragoza
+298,Fuentes de Jiloca,27.4,Spain,"YAGUE CARRASCON, JOSE ANTONIO",164,153,50116,Aragón,Comunidad de Calatayud
+299,Fuentes de Rubielos,38.9,Spain,RAMON LUIS HONRUBIA BALLESTER,63,45,44113,Aragón,Gúdar-Javalambre
+300,Fuentespalda,39.0,Spain,"AGUD APARICIO, MARÍA DEL CARMEN",176,177,44114,Aragón,Matarraña/Matarranya
+301,Fueva (La),218.8,Spain,"LAPLANA BUETAS, JOSE RAMON",316,295,22113,Aragón,Sobrarbe
+302,Fórnoles,32.6,Spain,"SERRAT CONCHELLO, ERNESTO",46,55,44105,Aragón,Matarraña/Matarranya
+303,Gallocanta,29.7,Spain,"BALLESTIN CANTIN, JUAN JOSE",93,82,50117,Aragón,Campo de Daroca
+304,Gallur,41.7,Spain,"LIZ GASPAR, ANTONIO LUCIANO",1522,1438,50118,Aragón,Ribera Alta del Ebro
+305,Galve,61.9,Spain,"HERNANDEZ TALABANTE, JOAQUIN",82,65,44115,Aragón,Comunidad de Teruel
+306,Gargallo,30.1,Spain,RAMOS MAUREL AGUSTIN,59,58,44116,Aragón,Andorra-Sierra de Arcos
+307,Gea de Albarracín,57.5,Spain,MANUEL ALAMÁN ORTIZ,228,215,44117,Aragón,Sierra de Albarracín
+308,Gelsa,72.0,Spain,"ALMORIN ROCHE, JOSE MIGUEL",610,600,50119,Aragón,Ribera Baja del Ebro
+309,Ginebrosa (La),80.1,Spain,"VILLANOVA ALTABELLA, BLAS ANTONIO",141,105,44118,Aragón,Bajo Aragón
+310,Gistaín,75.9,Spain,"BIELSA BARRAU, DAVID",92,73,22114,Aragón,Sobrarbe
+311,Godojos,16.8,Spain,"CEBOLLA YAGUE, SANTIAGO",33,33,50120,Aragón,Comunidad de Calatayud
+312,Gotor,15.5,Spain,"CALVO AYORA, JOSE ANGEL",210,189,50121,Aragón,Aranda
+313,Grado (El),63.8,Spain,"PUYAL MARTINEZ, JAVIER",264,250,22115,Aragón,Somontano de Barbastro
+314,Graus,299.8,Spain,"LAGÜENS MARTIN, JOSE ANTONIO",1646,1620,22117,Aragón,La Ribagorza
+315,Grañén,124.0,Spain,"SAMPERIZ ENGUITA, CARLOS",1032,977,22116,Aragón,Los Monegros
+316,Griegos,31.8,Spain,JOSE LUIS CHAVARRIAS SORANDO,83,49,44119,Aragón,Sierra de Albarracín
+317,Grisel,14.5,Spain,"MARTINEZ DURAN, JAVIER",37,26,50122,Aragón,Tarazona y el Moncayo
+318,Grisén,4.8,Spain,"MILLAN GARCES, JUAN DE TODOS LOS SANTOS",249,231,50123,Aragón,Ribera Alta del Ebro
+319,Guadalaviar,28.1,Spain,BEGOÑA GARCIA BELENCHON,139,133,44120,Aragón,Sierra de Albarracín
+320,Gurrea de Gállego,192.0,Spain,None,902,838,22119,Aragón,Hoya de Huesca/Plana de Uesca
+321,Gúdar,60.8,Spain,"IZQUIERDO VICENTE, ALBERTO",47,34,44121,Aragón,Gúdar-Javalambre
+322,Herrera de los Navarros,105.0,Spain,"VAL RUBIO, ADOLFO",331,290,50124,Aragón,Campo de Daroca
+323,Hinojosa de Jarque,36.5,Spain,"PEREZ VALERO, PEDRO ANTONIO",90,76,44123,Aragón,Cuencas Mineras
+324,Hoz de Jaca,12.5,Spain,"LOPEZ SANZ, ESPERANZA",32,40,22122,Aragón,Alto Gállego
+325,Hoz de la Vieja (La),43.7,Spain,"LAHOZ LAHOZ, ANTONIO",52,57,44124,Aragón,Cuencas Mineras
+326,Hoz y Costeán,57.5,Spain,"MILLARUELO MONTANER, JUAN JOSE",125,104,22908,Aragón,Somontano de Barbastro
+327,Huerto,86.7,Spain,"BIELA ABADIAS, FRANCISCO",131,115,22124,Aragón,Los Monegros
+328,Huesa del Común,61.7,Spain,"SINUES BURILLO, Mª ERMERINDA",80,48,44125,Aragón,Cuencas Mineras
+329,Huesca,161.0,Spain,"ALOS LOPEZ, ANA ISABEL",22974,24635,22125,Aragón,Hoya de Huesca/Plana de Uesca
+330,Híjar,165.4,Spain,"MARQUESAN FORCEN, LUIS CARLOS",955,928,44122,Aragón,Bajo Martín
+331,Ibdes,56.3,Spain,"DUCE MAESTRO, RAMON",280,250,50125,Aragón,Comunidad de Calatayud
+332,Ibieca,14.9,Spain,"BROTO ESCARIO, JOSE ANTONIO",61,53,22126,Aragón,Hoya de Huesca/Plana de Uesca
+333,Iglesuela del Cid (La),40.3,Spain,MARIA INES TRAVER RODA,266,218,44126,Aragón,Maestrazgo
+334,Igriés,19.2,Spain,"ADRADA GUAJARDO, ROQUE",164,160,22127,Aragón,Hoya de Huesca/Plana de Uesca
+335,Ilche,63.7,Spain,"TORRES ESTER, JOSE LUIS",141,123,22128,Aragón,Somontano de Barbastro
+336,Illueca,24.9,Spain,"HERRERO ASENSIO, IGNACIO",1695,1749,50126,Aragón,Aranda
+337,Isuerre,20.1,Spain,"ARTIEDA ZALBA, ANTONIO",37,19,50128,Aragón,Cinco Villas
+338,Isábena,118.5,Spain,"NASARRE ALAMAN, JOSE ALFONSO",146,136,22129,Aragón,La Ribagorza
+339,Jabaloyas,61.7,Spain,"SANCHEZ SANCHEZ, ANTONIO",37,38,44127,Aragón,Sierra de Albarracín
+340,Jaca,406.3,Spain,"BARRIO SENA, VICTOR JOSE",5971,6092,22130,Aragón,La Jacetania
+341,Jaraba,42.8,Spain,"PEREZ SICILIA, MANUEL ENRIQUE",171,152,50129,Aragón,Comunidad de Calatayud
+342,Jarque,43.0,Spain,"GARCES ZAPATA, MIGUEL ANGEL",298,257,50130,Aragón,Aranda
+343,Jarque de la Val,29.2,Spain,"IRANZO BLASCO, SEBASTIAN",54,45,44128,Aragón,Cuencas Mineras
+344,Jasa,8.9,Spain,"USIETO ALEGRIA, MARIA CONSUELO",67,48,22131,Aragón,La Jacetania
+345,Jatiel,10.8,Spain,"GALVEZ ARTO, JESUS",29,24,44129,Aragón,Bajo Martín
+346,Jaulín,46.1,Spain,"ORTILLES LOBERA, JESUS IGNACIO",150,137,50131,Aragón,D.C. Zaragoza
+347,Jorcas,26.2,Spain,"IZQUIERDO FECED, ROMAN",26,14,44130,Aragón,Comunidad de Teruel
+348,Josa,28.2,Spain,"LOPEZ SANMARTIN, OSCAR",20,13,44131,Aragón,Cuencas Mineras
+349,Joyosa (La),6.5,Spain,"GARCIA SANTABARBARA, ILDEFONSO JOSE",263,243,50132,Aragón,Ribera Alta del Ebro
+350,Labuerda,17.8,Spain,"CAMPO SANZ, ENRIQUE",92,75,22133,Aragón,Sobrarbe
+351,Lagata,23.7,Spain,"LAZARO GOMEZ, FRANCISCO JAVIER ANGEL",79,62,50133,Aragón,Campo de Belchite
+352,Lagueruela,26.3,Spain,"HERNANDEZ BORIA, JESÚS",28,30,44132,Aragón,Jiloca
+353,Laluenga,36.5,Spain,"JUAREZ GRACIA, MARIA CRISTINA",132,118,22135,Aragón,Somontano de Barbastro
+354,Lalueza,88.2,Spain,"PERIZ VIZCARRA, DANIEL",603,549,22136,Aragón,Los Monegros
+355,Lanaja,183.7,Spain,"BORRAZ ALCUBIERRE, ARMANDO",775,721,22137,Aragón,Los Monegros
+356,Langa del Castillo,50.1,Spain,"VALERO GIL, BASILIO",81,90,50134,Aragón,Campo de Daroca
+357,Lanzuela,14.2,Spain,"GOMEZ SANCHEZ, JOSE ANTONIO",23,12,44133,Aragón,Jiloca
+358,Laperdiguera,11.3,Spain,"REDOL NADAL, PEDRO JAVIER",49,53,22139,Aragón,Somontano de Barbastro
+359,Lascellas-Ponzano,27.3,Spain,"BORRUEL RIBARES, FELIX",80,78,22141,Aragón,Somontano de Barbastro
+360,Lascuarre,31.9,Spain,"LLORET SIN, JOSE LUIS",79,70,22142,Aragón,La Ribagorza
+361,Laspaúles,81.6,Spain,"ESPOT RUIZ, JUAN IGNACIO",158,126,22143,Aragón,La Ribagorza
+362,Laspuña,45.3,Spain,"CASTILLO MUR, AGAPITO ANTONIO",142,130,22144,Aragón,Sobrarbe
+363,Layana,3.7,Spain,"GAY CORTES, JESUS",63,62,50135,Aragón,Cinco Villas
+364,Lechón,17.5,Spain,"HERRERA BOROBIA, MARIA INES",36,23,50138,Aragón,Campo de Daroca
+365,Leciñena,178.6,Spain,"GAVIN GONZALEZ, GONZALO",655,641,50137,Aragón,Los Monegros
+366,Letux,30.1,Spain,LUIS MIGUEL ABOS AZNAR,236,220,50139,Aragón,Campo de Belchite
+367,Libros,37.9,Spain,"MILLAN NAVARRO, RAFAEL",79,74,44135,Aragón,Comunidad de Teruel
+368,Lidón,40.4,Spain,"JUSTE SANZ, JOAQUIN PASCUAL",32,38,44136,Aragón,Comunidad de Teruel
+369,Linares de Mora,116.3,Spain,"SEVILLA SALVADOR, YOLANDA",184,139,44137,Aragón,Gúdar-Javalambre
+370,Litago,15.3,Spain,"HERRERO MAGALLON, PEDRO JOSE",113,90,50140,Aragón,Tarazona y el Moncayo
+371,Lituénigo,11.4,Spain,"NEGREDO HERNANDEZ, ALBERTO",60,62,50141,Aragón,Tarazona y el Moncayo
+372,Lledó,15.6,Spain,MARIA JOSE VALLES BRENCHAT,110,90,44141,Aragón,Matarraña/Matarranya
+373,Loarre,74.4,Spain,"LIESA LADRERO, MIGUEL",193,181,22149,Aragón,Hoya de Huesca/Plana de Uesca
+374,Lobera de Onsella,32.2,Spain,FRANCHO CHABIER MAYAYO ARTIGAS,36,22,50142,Aragón,Cinco Villas
+375,Longares,46.0,Spain,"JAIME ANGOS, MIGUEL",583,416,50143,Aragón,Campo de Cariñena
+376,Longás,49.2,Spain,"MAYAYO SOLANA, JESUS",29,20,50144,Aragón,Cinco Villas
+377,Loporzano,169.3,Spain,"ESCARIO GRACIA, JESUS",273,238,22150,Aragón,Hoya de Huesca/Plana de Uesca
+378,Loscorrales,40.2,Spain,"LABORDA MONGIO, JOSE MARIA",64,48,22151,Aragón,Hoya de Huesca/Plana de Uesca
+379,Loscos,71.8,Spain,"ELIAS BAILO, PEDRO",104,87,44138,Aragón,Jiloca
+380,Lucena de Jalón,10.3,Spain,"JULVE LARRAZ, JOSE MARIA",125,120,50146,Aragón,Valdejalón
+381,Luceni,27.1,Spain,"ARELLANO BADIA, ANA Mª",527,526,50147,Aragón,Ribera Alta del Ebro
+382,Luesia,126.8,Spain,"LACOSTA ARAGUES, JAIME",218,182,50148,Aragón,Cinco Villas
+383,Luesma,29.4,Spain,"MAINAR MAINAR, DAVID",19,21,50149,Aragón,Campo de Daroca
+384,Lumpiaque,29.5,Spain,"SEDILES BARBOD, MERCEDES",495,448,50150,Aragón,Valdejalón
+385,Luna,308.9,Spain,"PUERTOLAS BERNE, SANTIAGO",461,411,50151,Aragón,Cinco Villas
+386,Lupiñén-Ortilla,110.1,Spain,"TIL AIN, JOAQUIN MARIANO",188,160,22905,Aragón,Hoya de Huesca/Plana de Uesca
+387,Lécera,109.2,Spain,"CHAVARRÍA POY, JOSÉ",392,394,50136,Aragón,Campo de Belchite
+388,Maella,174.9,Spain,"GIL FERRER, JESUS ZENON",1084,980,50152,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+389,Magallón,78.6,Spain,"CHUECA RODRIGUEZ, VICTOR MANUEL",635,559,50153,Aragón,Campo de Borja
+390,Maicas,24.7,Spain,"AGUILAR PALACIO, Mª PILAR",19,20,44142,Aragón,Cuencas Mineras
+391,Mainar,34.0,Spain,"MARZO MARIN, ESMERALDO",85,72,50154,Aragón,Campo de Daroca
+392,Malanquilla,36.6,Spain,"SANCHEZ SORIA, ABRAHAM RAUL",68,64,50155,Aragón,Comunidad de Calatayud
+393,Maleján,0.1,Spain,"RUIZ LAHUERTA, JUAN JOSE",152,150,50156,Aragón,Campo de Borja
+394,Mallén,37.4,Spain,"ASIN MARTINEZ, ANTONIO",1797,1526,50160,Aragón,Campo de Borja
+395,Maluenda,40.1,Spain,"HERRERO ABIAN, Mª CARMEN",504,522,50159,Aragón,Comunidad de Calatayud
+396,Malón,5.7,Spain,"MAGAÑA SANCHEZ, JOSE IGNACIO",226,206,50157,Aragón,Tarazona y el Moncayo
+397,Manchones,26.8,Spain,"PARDILLOS JULIAN, JESUS",79,72,50161,Aragón,Campo de Daroca
+398,Manzanera,168.7,Spain,"LAZARO PEREZ, MANUEL RAFAEL",270,219,44143,Aragón,Gúdar-Javalambre
+399,Mara,21.1,Spain,"IBARRA DE LA MUELA, ROBERTO",101,107,50162,Aragón,Comunidad de Calatayud
+400,Marracos,17.1,Spain,"LOPEZ TORRALBA, EDUARDO",61,58,50902,Aragón,Cinco Villas
+401,Martín del Río,54.9,Spain,"ALTABA CABAÑERO, FRANCISCO JAVIER",244,231,44144,Aragón,Cuencas Mineras
+402,María de Huerva,108.1,Spain,"VAQUERO PERIANEZ, Mª DEL MAR",878,797,50163,Aragón,D.C. Zaragoza
+403,Mas de las Matas,30.0,Spain,"PITARCH CAÑADA, PEDRO",744,708,44145,Aragón,Bajo Aragón
+404,Mata de los Olmos (La),23.7,Spain,"GIMENO GASCON, SILVIA INES",134,140,44146,Aragón,Bajo Aragón
+405,Mazaleón,86.2,Spain,MARIANO ANTONIO SAN NICOLAS VIVER,305,294,44147,Aragón,Matarraña/Matarranya
+406,Mediana de Aragón,90.6,Spain,"CASABONA MONREAL, MIGUEL ANGEL",251,259,50164,Aragón,D.C. Zaragoza
+407,Mequinenza,307.2,Spain,"GODIA IBARZ, MAGDALENA",1250,1261,50165,Aragón,Bajo Cinca/Baix Cinca
+408,Mesones de Isuela,48.5,Spain,"PRAVIA FERNANDEZ, JOSE",166,178,50166,Aragón,Aranda
+409,Mezalocha,60.6,Spain,"ANSÓN ANSÓN, Mª. ASCENSIÓN ANTONIA",157,124,50167,Aragón,Campo de Cariñena
+410,Mezquita de Jarque,31.1,Spain,"SANCHO IÑIGUEZ, HERMINIO",69,60,44148,Aragón,Cuencas Mineras
+411,Mianos,14.8,Spain,"PEREZ PEREZ, CARLOS",24,20,50168,Aragón,La Jacetania
+412,Miedes de Aragón,55.4,Spain,"HERNANDEZ GIMENO, PILAR",266,242,50169,Aragón,Comunidad de Calatayud
+413,Mirambel,45.5,Spain,"MONFORTE BARREDA, RICARDO",80,64,44149,Aragón,Maestrazgo
+414,Miravete de la Sierra,36.5,Spain,"LISTO SIMÓN, JOSÉ",25,17,44150,Aragón,Maestrazgo
+415,Molinos,79.6,Spain,"MONFIL FARNOS, MARIA PILAR",163,143,44151,Aragón,Maestrazgo
+416,Monegrillo,183.2,Spain,"LAGUNA MARTINEZ, ALEJANDRO",282,235,50170,Aragón,Los Monegros
+417,Monesma y Cajigar,62.6,Spain,"LASHERAS BALLARIN, ANTONIO",53,48,22155,Aragón,La Ribagorza
+418,Moneva,61.4,Spain,"MARTIN MARECA, LUIS",70,62,50171,Aragón,Campo de Belchite
+419,Monflorite-Lascasas,29.2,Spain,"SALAS PARRA, PEDRO ANTONIO",120,87,22156,Aragón,Hoya de Huesca/Plana de Uesca
+420,Monforte de Moyuela,47.7,Spain,JOSÉ GRACIA PLOU,47,26,44152,Aragón,Jiloca
+421,Monreal de Ariza,62.1,Spain,"DELGADO POLO, MARÍA PASCUAL",140,125,50172,Aragón,Comunidad de Calatayud
+422,Monreal del Campo,89.0,Spain,"CASTELLANO IBAÑEZ, PEDRO",1203,1205,44153,Aragón,Jiloca
+423,Monroyo,79.2,Spain,"ARRUFAT MARAVER, OSCAR",179,151,44154,Aragón,Matarraña/Matarranya
+424,Montalbán,82.0,Spain,"NAVARRO GASCON, MANUEL JAVIER",784,746,44155,Aragón,Cuencas Mineras
+425,Montanuy,174.1,Spain,"AGULLANA PALACIN, JOSE MARIA",165,127,22157,Aragón,La Ribagorza
+426,Monteagudo del Castillo,44.4,Spain,"LOZANO CABAÑERO, LUIS IGNACIO",41,26,44156,Aragón,Comunidad de Teruel
+427,Monterde,55.9,Spain,"GRACIA RUIZ, JOSE",122,106,50173,Aragón,Comunidad de Calatayud
+428,Monterde de Albarracín,45.2,Spain,"ASPAS SANCHEZ, LUIS ANTONIO",28,30,44157,Aragón,Sierra de Albarracín
+429,Montón,17.6,Spain,"MUÑOZ ALGAS, IGNACIO",71,60,50174,Aragón,Comunidad de Calatayud
+430,Monzón,155.0,Spain,"LANAU MORANCHO, ROSA Mª",7835,7560,22158,Aragón,Cinca Medio
+431,Mora de Rubielos,166.2,Spain,FRANCISCO JAVIER BAGUENA BUESO,716,675,44158,Aragón,Gúdar-Javalambre
+432,Morata de Jalón,45.9,Spain,"ANDRES OSTARIZ, Mª CRISTINA",696,726,50175,Aragón,Valdejalón
+433,Morata de Jiloca,23.1,Spain,"LANGA PARDOS, MIGUEL",173,152,50176,Aragón,Comunidad de Calatayud
+434,Moros,53.5,Spain,"MORTE GARCIA, MANUEL",248,247,50178,Aragón,Comunidad de Calatayud
+435,Morés,53.5,Spain,"MORTE GARCIA, MANUEL",234,204,50177,Aragón,Comunidad de Calatayud
+436,Moscardón,26.9,Spain,"MURCIANO VICENTE, MANUEL",31,23,44159,Aragón,Sierra de Albarracín
+437,Mosqueruela,265.0,Spain,"GIL SALVADOR, MARIA ISABEL",403,319,44160,Aragón,Gúdar-Javalambre
+438,Moyuela,42.8,Spain,"CRESPO MARTINEZ, JOSE ANTONIO",170,150,50179,Aragón,Campo de Belchite
+439,Mozota,8.7,Spain,"ROMEO ROYO, RUMUALDO",59,62,50180,Aragón,D.C. Zaragoza
+440,Muel,79.2,Spain,"ALIAGA ALIAGA, RAFAEL",583,552,50181,Aragón,Campo de Cariñena
+441,Muela (La),143.5,Spain,MARIA SOLEDAD AURED DE TORRES,1200,1110,50182,Aragón,Valdejalón
+442,Muniesa,129.8,Spain,"YUS BLASCO, JOSE",370,334,44161,Aragón,Cuencas Mineras
+443,Munébrega,41.0,Spain,"LAJUSTICIA RUBIO, JOSE FELIX",236,202,50183,Aragón,Comunidad de Calatayud
+444,Murero,18.2,Spain,"MINGOTE GARCIA, SANTIAGO",78,60,50184,Aragón,Campo de Daroca
+445,Murillo de Gállego,54.7,Spain,"DE SANTOS LORIENTE, MARTA",102,75,50185,Aragón,Hoya de Huesca/Plana de Uesca
+446,Naval,47.3,Spain,"RODRIGUEZ SOPENA, JAVIER",143,152,22160,Aragón,Somontano de Barbastro
+447,Navardún,24.5,Spain,"GABAS MURILLO, CARLOS MARIA",30,24,50186,Aragón,Cinco Villas
+448,Nigüella,30.4,Spain,"BRUSIL SANCHEZ, LUIS",59,46,50187,Aragón,Comunidad de Calatayud
+449,Noguera de Albarracín,47.4,Spain,MIGUEL ANGEL CUADRADO PONS,85,76,44163,Aragón,Sierra de Albarracín
+450,Nogueras,18.8,Spain,"ROYO SORIANO, FRANCISCO",14,5,44164,Aragón,Jiloca
+451,Nogueruelas,99.5,Spain,MARCOS BENAGES HERRERO,121,103,44165,Aragón,Gúdar-Javalambre
+452,Nombrevilla,17.6,Spain,"LAFUENTE ARNAL, JOSE",31,24,50188,Aragón,Campo de Daroca
+453,Nonaspe,111.4,Spain,"LLOP RAFALES, JOAQUIN",539,506,50189,Aragón,Bajo Aragón-Caspe/Baix Aragó-Casp
+454,Novales,20.1,Spain,"MONAJ RIVARES, VICENTE",96,86,22162,Aragón,Hoya de Huesca/Plana de Uesca
+455,Novallas,11.4,Spain,"FERNANDEZ CORNAGO, HONORIO JESUS",406,409,50190,Aragón,Tarazona y el Moncayo
+456,Novillas,25.3,Spain,"AYESA ZORDIA, JOSE",345,324,50191,Aragón,Campo de Borja
+457,Nueno,147.2,Spain,"FORTUÑO ESCARTIN, JUAN CARLOS",219,175,22163,Aragón,Hoya de Huesca/Plana de Uesca
+458,Nuez de Ebro,8.2,Spain,MARIA DORITA MIGUEL ABUELO,320,299,50193,Aragón,D.C. Zaragoza
+459,Nuévalos,41.8,Spain,"PEIRO COBACHO, MANUEL",208,185,50192,Aragón,Comunidad de Calatayud
+460,Obón,68.4,Spain,JOSE LUIS MOLINA MARTIN,45,38,44167,Aragón,Cuencas Mineras
+461,Odón,74.2,Spain,JESUS TEODORO DOMINGO MERCADAL,129,132,44168,Aragón,Jiloca
+462,Ojos Negros,90.9,Spain,ESTHER IBAÑEZ MORENO,282,253,44169,Aragón,Jiloca
+463,Olba,21.0,Spain,FEDERICO MANUEL MARTIN FUERTES,110,106,44171,Aragón,Gúdar-Javalambre
+464,Oliete,85.5,Spain,"ALFONSO CAROD, RAMIRO",245,231,44172,Aragón,Andorra-Sierra de Arcos
+465,Olmos (Los),44.0,Spain,"ESPALLARGAS CARCELER, NURIA",76,68,44173,Aragón,Bajo Aragón
+466,Olvena,15.9,Spain,MANUEL MARTINEZ PARDINA,30,38,22164,Aragón,Somontano de Barbastro
+467,Olvés,20.2,Spain,"GALLEGO GARCIA, ERNESTO",75,70,50194,Aragón,Comunidad de Calatayud
+468,Ontiñena,137.0,Spain,"TORRES MUR, ANGEL",319,318,22165,Aragón,Bajo Cinca/Baix Cinca
+469,Orcajo,28.4,Spain,"APARICIO RAMIRO, PEDRO LUIS",22,20,50195,Aragón,Campo de Daroca
+470,Orera,19.8,Spain,"GOMEZ GARCIA, JUAN LUIS",67,65,50196,Aragón,Comunidad de Calatayud
+471,Orihuela del Tremedal,71.5,Spain,JUAN VICENTE APARICIO RUEDA,317,311,44174,Aragón,Sierra de Albarracín
+472,Orrios,44.2,Spain,"MARZO BLASCO, DANIEL",92,90,44175,Aragón,Comunidad de Teruel
+473,Orés,54.5,Spain,"CAMPOS IDOIPE, ANTONIO",63,50,50197,Aragón,Cinco Villas
+474,Oseja,12.5,Spain,"LORENTE GARCIA, FRANCISCO JAVIER",27,20,50198,Aragón,Aranda
+475,Osera de Ebro,24.6,Spain,"PERIZ ENFEDAQUE, JOSE LUIS",189,194,50199,Aragón,D.C. Zaragoza
+476,Osso de Cinca,27.7,Spain,"ROMERO SANTOLARIA, ANTONIO",437,329,22167,Aragón,Bajo Cinca/Baix Cinca
+477,Palo,14.4,Spain,"ARNAL ESPINOSA, MARIA ANTONIA",29,18,22168,Aragón,Sobrarbe
+478,Palomar de Arroyos,33.6,Spain,"JUAREZ PALOMAR, ERNESTINA",136,102,44176,Aragón,Cuencas Mineras
+479,Pancrudo,100.1,Spain,"TOLOSA SANCHO, MANUEL",79,66,44177,Aragón,Comunidad de Teruel
+480,Paniza,47.3,Spain,"GIMENO GUILLEN, JESUS JAVIER",386,348,50200,Aragón,Campo de Cariñena
+481,Panticosa,95.9,Spain,"LAGUNA BELIO, RICARDO",370,361,22170,Aragón,Alto Gállego
+482,Paracuellos de Jiloca,32.0,Spain,"GALLEGO DURAN, JOSE IGNACIO",241,256,50201,Aragón,Comunidad de Calatayud
+483,Paracuellos de la Ribera,15.0,Spain,"ROY RAGA, ANGEL RAMÓN",120,129,50202,Aragón,Comunidad de Calatayud
+484,Parras de Castellote (Las),42.1,Spain,"BOLIVAR FRANCO, JOSÉ",44,38,44178,Aragón,Bajo Aragón
+485,Pastriz,16.5,Spain,"EZQUERRA CALVO, JOSE MIGUEL",567,593,50203,Aragón,D.C. Zaragoza
+486,Pedrola,113.7,Spain,"EJIDO TORMEZ, FELIPE",1487,1375,50204,Aragón,Ribera Alta del Ebro
+487,Pedrosas (Las),18.3,Spain,"TORRALBA NAVAL, JOAQUIN",50,50,50205,Aragón,Cinco Villas
+488,Peracense,28.7,Spain,"BUGEDA DOÑATE, MANUEL",61,46,44180,Aragón,Jiloca
+489,Peralejos,36.1,Spain,JUAN JOSE PEIRO YAGO,41,41,44181,Aragón,Comunidad de Teruel
+490,Perales del Alfambra,104.2,Spain,"POLO ORTIN, JESUS JAIME",150,131,44182,Aragón,Comunidad de Teruel
+491,Peralta de Alcofea,116.1,Spain,"GRACIA ALOS, OBDULIA",331,344,22174,Aragón,Somontano de Barbastro
+492,Peralta de Calasanz,114.9,Spain,"MELER SANVICENTE, Mª PILAR",156,121,22175,Aragón,La Litera/La Llitera
+493,Peraltilla,16.2,Spain,"SIERRA CEBOLLERO, JOSE PEDRO",97,83,22176,Aragón,Somontano de Barbastro
+494,Perarrúa,30.1,Spain,"LALUEZA CIUTAD, MANUEL SANTOS",60,64,22177,Aragón,La Ribagorza
+495,Perdiguera,109.8,Spain,"USON ALCUBIERRE, JOSE MANUEL",295,274,50206,Aragón,Los Monegros
+496,Pertusa,29.4,Spain,"MANCHO ESCARTIN, Mª ROSARIO",75,70,22178,Aragón,Hoya de Huesca/Plana de Uesca
+497,Peñalba,156.7,Spain,"LERIN ALLUE, CARLOS JAVIER",383,381,22172,Aragón,Los Monegros
+498,Peñarroya de Tastavins,83.3,Spain,"ESTEVE LOMBARTE, FRANCISCO",285,247,44179,Aragón,Matarraña/Matarranya
+499,Peñas de Riglos (Las),217.9,Spain,"ASO BAILO, JUAN RAMON",159,113,22173,Aragón,Hoya de Huesca/Plana de Uesca
+500,Piedratajada,22.5,Spain,"MALLADA FABANA, JOSÉ ANTONIO",85,88,50207,Aragón,Cinco Villas
+501,Pina de Ebro,309.2,Spain,"MARTINEZ TOLEDO, Mª TERESA",1195,1140,50208,Aragón,Ribera Baja del Ebro
+502,Pinseque,16.1,Spain,"MELUS MARQUES-JUSTE, JUAN LUIS",1018,1001,50209,Aragón,Ribera Alta del Ebro
+503,Pintanos (Los),79.6,Spain,"GARCES BUESA, GUILLERMO",55,47,50210,Aragón,Cinco Villas
+504,Piracés,25.2,Spain,"VILLACAMPA FERRANDO, SERGIO.",61,42,22181,Aragón,Hoya de Huesca/Plana de Uesca
+505,Pitarque,54.3,Spain,"BUJ SAN MARTIN, DELFÍN",47,57,44183,Aragón,Maestrazgo
+506,Plan,92.5,Spain,"FANTOVA AUSED, JOSE MARIA",166,153,22182,Aragón,Sobrarbe
+507,Plasencia de Jalón,34.8,Spain,"BENEDI MARTINEZ, GREGORIO",205,165,50211,Aragón,Valdejalón
+508,Pleitas,2.1,Spain,"TREMUL MONTEGUI, JOAQUIN ALBERTO",35,27,50212,Aragón,Ribera Alta del Ebro
+509,Plenas,37.9,Spain,"YUS GRACIA, BALTASAR",66,67,50213,Aragón,Campo de Belchite
+510,Plou,17.2,Spain,"REPOLLES RODRIGO, FERNANDO",22,26,44184,Aragón,Cuencas Mineras
+511,Pobo (El),63.6,Spain,"CASAS LIBEROS, ALVARO",79,59,44185,Aragón,Comunidad de Teruel
+512,Poleñino,33.0,Spain,"ARTIEDA PUYAL, ESTER",134,133,22184,Aragón,Los Monegros
+513,Pomer,33.1,Spain,"MARTINEZ MODREGO, MILLAN",21,14,50214,Aragón,Aranda
+514,Portellada (La),21.4,Spain,"BOSQUE BONDIA, COSME RAMON",150,134,44187,Aragón,Matarraña/Matarranya
+515,Pozondón,67.6,Spain,"BARQUERO LÓPEZ, JESÚS",48,47,44189,Aragón,Sierra de Albarracín
+516,Pozuel de Ariza,22.6,Spain,"MILLAN HERRER, LUIS ANGEL",15,8,50215,Aragón,Comunidad de Calatayud
+517,Pozuel del Campo,27.9,Spain,MARIA JOSE MARCO SANCHEZ,59,49,44190,Aragón,Jiloca
+518,Pozuelo de Aragón,32.1,Spain,"GRACIA MARTINEZ, JOSE JERONIMO",191,156,50216,Aragón,Campo de Borja
+519,Pozán de Vero,14.8,Spain,ROSA ANABEL MARCOS SANCHEZ,118,130,22186,Aragón,Somontano de Barbastro
+520,Pradilla de Ebro,25.4,Spain,"MONCIN CUARTERO, LUIS EDUARDO",326,304,50217,Aragón,Ribera Alta del Ebro
+521,Puebla de Albortón,76.3,Spain,"ANSON MENDEZ, DIONISIO",80,57,50218,Aragón,Campo de Belchite
+522,Puebla de Alfindén (La),17.0,Spain,"LORIS DANCHEZ, NURIA",1312,1255,50219,Aragón,D.C. Zaragoza
+523,Puebla de Castro (La),29.4,Spain,"ALTEMIR FANTOVA, FRANCISCO JAVIER",186,165,22187,Aragón,La Ribagorza
+524,Puebla de Híjar (La),60.8,Spain,"BELLO MARTINEZ, PEDRO",506,529,44191,Aragón,Bajo Martín
+525,Puebla de Valverde (La),282.8,Spain,"FUERTES ALEGRIA, Mª LUISA",278,226,44192,Aragón,Gúdar-Javalambre
+526,Puendeluna,9.9,Spain,"MARTINEZ IBOR, JOSE ANTONIO",39,24,50220,Aragón,Cinco Villas
+527,Puente de Montañana,48.6,Spain,"BERGUA SALAZAR, JAVIER",52,55,22188,Aragón,La Ribagorza
+528,Puente la Reina de Jaca,48.1,Spain,"LOBERA GONZALEZ, RAMON",130,122,22902,Aragón,La Jacetania
+529,Puertomingalvo,103.6,Spain,"ZAFON JULIAN, TOMAS MANUEL",93,72,44193,Aragón,Gúdar-Javalambre
+530,Pueyo de Araguás (El),62.1,Spain,"BUETAS CORONAS, JESUS ANGEL",85,58,22190,Aragón,Sobrarbe
+531,Pueyo de Santa Cruz,9.3,Spain,"NAVARRO FAJARNES, ALBERTO",166,169,22193,Aragón,Cinca Medio
+532,Purujosa,35.4,Spain,"SANJUAN CLEMENTE, MARIANO",42,18,50221,Aragón,Aranda
+533,Puértolas,100.0,Spain,"REVESTIDO VISPE, RAMIRO ANTONIO",124,99,22189,Aragón,Sobrarbe
+534,Quicena,9.7,Spain,"CORTES CASTELLON, ISRAEL",74,72,22195,Aragón,Hoya de Huesca/Plana de Uesca
+535,Quinto,118.3,Spain,"BES LAGA, DIGNA",1029,1046,50222,Aragón,Ribera Baja del Ebro
+536,Remolinos,18.5,Spain,"ZALDIVAR TRIS, ALFREDO",627,610,50223,Aragón,Ribera Alta del Ebro
+537,Retascón,25.2,Spain,"MONGE SALVADOR, ARMANDO",52,43,50224,Aragón,Campo de Daroca
+538,Ricla,90.7,Spain,"ROMEO MAÑAS, FRANCISCO BLAS",1573,1177,50225,Aragón,Valdejalón
+539,Rillo,53.3,Spain,"MARZO GRACIA, SANTIAGO",72,58,44195,Aragón,Comunidad de Teruel
+540,Riodeva,34.3,Spain,"GORRIZ ROMERO, EMILIANO",86,100,44196,Aragón,Comunidad de Teruel
+541,Robres,64.3,Spain,"LUNA OTO, ANTONIO",347,310,22197,Aragón,Los Monegros
+542,Romanos,19.5,Spain,"HERNANDEZ CASTILLO, CARLOS",81,59,50227,Aragón,Campo de Daroca
+543,Royuela,32.5,Spain,JOSÉ LUIS VICENTE NAVARRO,131,98,44198,Aragón,Sierra de Albarracín
+544,Rubiales,27.4,Spain,"SORIANO GARZON, JOSE ANTONIO",31,24,44199,Aragón,Sierra de Albarracín
+545,Rubielos de Mora,63.7,Spain,"GRACIA LUCIA, ANGEL",329,314,44201,Aragón,Gúdar-Javalambre
+546,Rubielos de la Cérida,66.9,Spain,"RAMO CERVERA, JUAN JOSE",28,29,44200,Aragón,Jiloca
+547,Rueda de Jalón,107.4,Spain,"LARIO BIELSA, BERNARDO",187,178,50228,Aragón,Valdejalón
+548,Ruesca,11.6,Spain,"BUENAFE CALVO, LUIS FERNANDO",44,43,50229,Aragón,Comunidad de Calatayud
+549,Ráfales,35.6,Spain,"CAVERO LOPEZ, FERNANDO",96,91,44194,Aragón,Matarraña/Matarranya
+550,Ródenas,44.3,Spain,JOSE ANTONIO NICOLAS SORIANO,44,41,44197,Aragón,Sierra de Albarracín
+551,Sabiñánigo,586.8,Spain,"LASIERRA ASIN, JESUS TIMOTEO",4423,4374,22199,Aragón,Alto Gállego
+552,Sahún,72.9,Spain,"LATORRE GARCIA, RAMON FRANCISCO",133,115,22200,Aragón,La Ribagorza
+553,Salas Altas,20.7,Spain,"SUBÍAS TRICAS, MARIA CONCEPCIÓN",196,180,22201,Aragón,Somontano de Barbastro
+554,Salas Bajas,12.9,Spain,"GRACIA ANDREU, DANIEL JOSÉ",73,76,22202,Aragón,Somontano de Barbastro
+555,Salcedillo,16.9,Spain,"NAVARRO ALEGRE, FERMIN",4,4,44203,Aragón,Cuencas Mineras
+556,Saldón,28.4,Spain,"SANCHEZ MARCO, EDUARDO",17,14,44204,Aragón,Sierra de Albarracín
+557,Salillas,28.3,Spain,"SANTOLARIA VAL, JOSE RAMON",58,60,22203,Aragón,Hoya de Huesca/Plana de Uesca
+558,Salillas de Jalón,2.5,Spain,"SEVILLA LANA, CONCEPCION",184,162,50231,Aragón,Valdejalón
+559,Sallent de Gállego,162.1,Spain,"GERICO URIETA, JESUS EUGENIO",585,587,22204,Aragón,Alto Gállego
+560,Salvatierra de Esca,81.2,Spain,"ZUBIRIA LORENTE, Mª PILAR",134,137,50232,Aragón,La Jacetania
+561,Samper de Calanda,142.8,Spain,"PEREZ ORNAQUE, ALFONSO MANUEL",479,503,44205,Aragón,Bajo Martín
+562,Samper del Salz,11.5,Spain,"FORTUN CLAVERIA, ADOLFO",69,66,50233,Aragón,Campo de Belchite
+563,San Agustín,56.6,Spain,JOSE FERNANDEZ SALVADOR,71,60,44206,Aragón,Gúdar-Javalambre
+564,San Esteban de Litera,71.9,Spain,"SABES TURMO, FERNANDO",288,284,22205,Aragón,La Litera/La Llitera
+565,San Juan de Plan,55.8,Spain,"PUERTOLAS PORTA, NATIVIDAD",81,66,22207,Aragón,Sobrarbe
+566,San Martín de la Virgen de Moncayo,5.4,Spain,"HERNANDEZ MORA, RAFAEL GREGORIO",159,132,50234,Aragón,Tarazona y el Moncayo
+567,San Martín del Río,16.6,Spain,"SERRANO ALCAIRE, JOSE LUIS",131,133,44207,Aragón,Jiloca
+568,San Mateo de Gállego,71.6,Spain,"SOLANAS RUBIO, TERESA ISIDORA",1195,1095,50235,Aragón,D.C. Zaragoza
+569,San Miguel del Cinca,106.5,Spain,"SANCHO RODELLAR, ELISA",466,410,22903,Aragón,Cinca Medio
+570,Sangarrén,32.2,Spain,"CIRIA GELLA, VICENTE",130,141,22206,Aragón,Los Monegros
+571,Santa Cilia,28.1,Spain,"MAÑEZ VIVAS, MANUEL",109,91,22208,Aragón,La Jacetania
+572,Santa Cruz de Grío,19.5,Spain,"CARNICER ALVAREZ, JUAN CARLOS",114,102,50236,Aragón,Valdejalón
+573,Santa Cruz de Moncayo,4.0,Spain,"VAL DUCAR, ALBERTO",60,67,50237,Aragón,Tarazona y el Moncayo
+574,Santa Cruz de Nogueras,15.2,Spain,"GURRIA MATEO, GREGORIO",21,15,44208,Aragón,Jiloca
+575,Santa Cruz de la Serós,27.0,Spain,"MARTINEZ FERNANDEZ, Mª DEL CARMEN",95,69,22209,Aragón,La Jacetania
+576,Santa Eulalia,81.0,Spain,"PALATSI MARTÍNEZ, HECTOR",565,583,44209,Aragón,Comunidad de Teruel
+577,Santa Eulalia de Gállego,29.6,Spain,"CASAUCAU MORLANS, JOSE ANTONIO",68,67,50238,Aragón,Hoya de Huesca/Plana de Uesca
+578,Santa María de Dulcis,27.2,Spain,"LISA PANO, MARIANO JESUS",109,110,22906,Aragón,Somontano de Barbastro
+579,Santaliestra y San Quílez,23.3,Spain,"MUR COUTO, FRANCISCO JAVIER",57,50,22212,Aragón,La Ribagorza
+580,Santed,17.8,Spain,"PARDOS ENGUITA, EDUARDO",37,39,50239,Aragón,Campo de Daroca
+581,Sariñena,275.6,Spain,"VILLELLAS LAIN, FRANCISCO",2029,1958,22213,Aragón,Los Monegros
+582,Sarrión,140.4,Spain,"MARTIN NOVELLA, NARCISO",541,492,44210,Aragón,Gúdar-Javalambre
+583,Saviñán,15.5,Spain,"MARCUELLO CASORRAN, JOSE IGNACIO",414,431,50241,Aragón,Comunidad de Calatayud
+584,Secastilla,47.4,Spain,"ARASANZ TURMO, JOSE LUIS",74,85,22214,Aragón,La Ribagorza
+585,Sediles,11.7,Spain,"CONDON CABALLERO, JUAN LUIS",52,48,50242,Aragón,Comunidad de Calatayud
+586,Segura de los Baños,54.1,Spain,ERNESTO FERRERUELA CALVO,22,21,44211,Aragón,Cuencas Mineras
+587,Seira,69.2,Spain,MARIA BEGOÑA AVENTIN CRIVILLES,100,95,22215,Aragón,La Ribagorza
+588,Sena,104.7,Spain,"SANZ REDRADO, ROCIO",334,253,22217,Aragón,Los Monegros
+589,Seno,17.9,Spain,"BELLES BELLES, JOAQUIN",28,24,44212,Aragón,Bajo Aragón
+590,Senés de Alcubierre,20.5,Spain,"ALLUE OTAL, Mª PILAR",28,24,22218,Aragón,Los Monegros
+591,Sesa,30.8,Spain,"PEREZ MUR, JESUS FRANCISCO",125,118,22220,Aragón,Hoya de Huesca/Plana de Uesca
+592,Sestrica,40.9,Spain,"PINILLA EMBID, MIGUEL",234,218,50243,Aragón,Aranda
+593,Sesué,5.2,Spain,"DEMUR DELMAS, JOSE FELIX",72,59,22221,Aragón,La Ribagorza
+594,Sierra de Luna,43.4,Spain,"NAUDIN LAMBAN, MARIA LUISA",130,120,50244,Aragón,Cinco Villas
+595,Sigüés,101.8,Spain,"SALINAS SAMITIER, DANIEL",90,84,50245,Aragón,La Jacetania
+596,Singra,36.7,Spain,"MARTÍN ANDRÉS, MANUEL",44,46,44213,Aragón,Jiloca
+597,Sisamón,41.6,Spain,"HERNANDEZ HERNANDEZ, JOSE MARIA",40,25,50246,Aragón,Comunidad de Calatayud
+598,Siétamo,49.0,Spain,"FERRANDO LABARTA, JOSE LUIS",254,206,22222,Aragón,Hoya de Huesca/Plana de Uesca
+599,Sobradiel,12.1,Spain,"IZAGUERRI AZNAR, JAIME",380,375,50247,Aragón,Ribera Alta del Ebro
+600,Sopeira,44.1,Spain,"ARIÑO PALACIN, JOSE Mº",50,53,22223,Aragón,La Ribagorza
+601,Sos del Rey Católico,216.6,Spain,"ISO ECHEGOYEN, JESUS MARIA",379,364,50248,Aragón,Cinco Villas
+602,Sotonera (La),165.5,Spain,"GUTIERREZ CABRERO, CARMEN",564,510,22904,Aragón,Hoya de Huesca/Plana de Uesca
+603,Sádaba,129.5,Spain,"PEREZ IGUAZ, MIGUEL ANGEL",890,874,50230,Aragón,Cinco Villas
+604,Sástago,301.0,Spain,"YUSTE GRACIA, JOAQUINA",672,653,50240,Aragón,Ribera Baja del Ebro
+605,Tabuenca,85.7,Spain,"LANZAN CHUECA, MARIA ANGELES",259,202,50249,Aragón,Campo de Borja
+606,Talamantes,46.9,Spain,"JIMENEZ ARELLANO, JOSE MANUEL",35,24,50250,Aragón,Campo de Borja
+607,Tamarite de Litera,110.6,Spain,"MATEO RIVAS, FRANCISCO",1861,1838,22225,Aragón,La Litera/La Llitera
+608,Tarazona,244.0,Spain,"BEAMONTE MESA, LUIS MARIA",5180,5491,50251,Aragón,Tarazona y el Moncayo
+609,Tardienta,90.6,Spain,"ABADIA PELEATO, Mª LUZ",571,512,22226,Aragón,Los Monegros
+610,Tauste,405.2,Spain,"FRANCES CARBONEL, MIGUEL ANGEL",3643,3604,50252,Aragón,Cinco Villas
+611,Tella-Sin,90.3,Spain,"SESE CAZCARRA, FELICIANO",137,127,22227,Aragón,Sobrarbe
+612,Terrer,33.8,Spain,"ESCOLANO SERRANO, TOMAS JOSE",278,290,50253,Aragón,Comunidad de Calatayud
+613,Terriente,48.0,Spain,VICTORIANO JORDÁN CODES,101,73,44215,Aragón,Sierra de Albarracín
+614,Teruel,440.4,Spain,"BLASCO MARQUÉS, MANUEL",15620,16684,44216,Aragón,Comunidad de Teruel
+615,Tierga,66.1,Spain,"GRAVALOS RUBIO, JESÚS GABRIEL",128,99,50254,Aragón,Aranda
+616,Tierz,6.5,Spain,"ALFARO SANTAFE, JESUS",84,90,22228,Aragón,Hoya de Huesca/Plana de Uesca
+617,Tobed,37.9,Spain,"SANCHEZ QUERO, JUAN ANTONIO",127,124,50255,Aragón,Comunidad de Calatayud
+618,Tolva,59.0,Spain,"PENA SUBIRA, MARIA LOURDES",95,87,22229,Aragón,La Ribagorza
+619,Toril y Masegoso,30.7,Spain,"DALDA BORJA, JAVIER",15,11,44217,Aragón,Sierra de Albarracín
+620,Torla,185.2,Spain,"VILLACAMPA OLIVAN, MIGUEL",168,148,22230,Aragón,Sobrarbe
+621,Tormón,29.3,Spain,"ARCHILAGA VALERO, FAUSTINO",20,17,44218,Aragón,Comunidad de Teruel
+622,Tornos,49.0,Spain,"DOMINGUEZ TRAID, SANTIAGO",126,115,44219,Aragón,Jiloca
+623,Torralba de Aragón,40.4,Spain,"BAYOD CALVO, ANTONIO",59,59,22232,Aragón,Los Monegros
+624,Torralba de Ribota,32.5,Spain,"PUERTAS CANTERIA, ALFONSO",107,89,50257,Aragón,Comunidad de Calatayud
+625,Torralba de los Frailes,59.2,Spain,"GALVEZ BARRA, JOSE CARLOS",45,46,50256,Aragón,Campo de Daroca
+626,Torralba de los Sisones,44.8,Spain,"PIQUER MELENDEZ, JOSE MARIA",123,108,44220,Aragón,Jiloca
+627,Torralbilla,25.9,Spain,"NAVARRO SIERRA, MARGARITA",37,35,50258,Aragón,Campo de Daroca
+628,Torre de Arcas,34.3,Spain,"GINER AMELA, LUIS ANGEL",50,53,44223,Aragón,Matarraña/Matarranya
+629,Torre de las Arcas,37.2,Spain,"GAMARRA CHOPO, MARÍA TERESA",19,13,44224,Aragón,Cuencas Mineras
+630,Torre del Compte,19.5,Spain,"BERGOS MACHIN, ANTONIO",85,88,44225,Aragón,Matarraña/Matarranya
+631,Torre la Ribera,32.1,Spain,"FRANCH AVENTIN, JOSE",64,55,22233,Aragón,La Ribagorza
+632,Torre los Negros,29.2,Spain,"GARCÉS MIGUEL, JUAN JOSÉ",45,45,44227,Aragón,Jiloca
+633,Torrecilla de Alcañiz,26.8,Spain,"LORENZO ALQUEZAR, JOAQUÍN",242,205,44221,Aragón,Bajo Aragón
+634,Torrecilla del Rebollar,63.4,Spain,"BURRIEL LUCA, CARLOS MIGUEL",92,94,44222,Aragón,Jiloca
+635,Torrehermosa,21.1,Spain,"GARCIA ALONSO, PASCUAL",56,51,50259,Aragón,Comunidad de Calatayud
+636,Torrelacárcel,35.5,Spain,"SORIANO HERNANDEZ, PASCUAL",138,127,44226,Aragón,Comunidad de Teruel
+637,Torrelapaja,15.7,Spain,"RUBIO OLIVEROS, TOMAS",20,17,50260,Aragón,Comunidad de Calatayud
+638,Torrellas,2.5,Spain,"PEREZ LAPUENTE, Mª PILAR",163,144,50261,Aragón,Tarazona y el Moncayo
+639,Torremocha de Jiloca,33.9,Spain,FELICIANO GUILLEN LOPEZ,79,75,44228,Aragón,Comunidad de Teruel
+640,Torrente de Cinca,56.8,Spain,"CABISTAÑ CUCHI, JOSE EVARISTO",502,499,22234,Aragón,Bajo Cinca/Baix Cinca
+641,Torres de Albarracín,28.3,Spain,"MARTI MUÑOZ, JOSE ANTONIO",85,70,44229,Aragón,Sierra de Albarracín
+642,Torres de Alcanadre,17.6,Spain,"SABATE ENCUENTRA, ROBERTO ANGEL GUILLERMO",75,53,22235,Aragón,Somontano de Barbastro
+643,Torres de Barbués,13.9,Spain,"RUFAS ACIN, CELSA ANA",163,173,22236,Aragón,Los Monegros
+644,Torres de Berrellén,53.8,Spain,"TREBOL BARTOS, MERCEDES",730,699,50262,Aragón,Ribera Alta del Ebro
+645,Torrevelilla,33.4,Spain,"MARTIN SILVESTRE, CARLOS EUGENIO",101,106,44230,Aragón,Bajo Aragón
+646,Torrijas,57.3,Spain,JOAQUIN DURBAN LOPEZ,45,49,44231,Aragón,Gúdar-Javalambre
+647,Torrijo de la Cañada,74.6,Spain,"PACHECO LAFUENTE, JUAN DOMINGO",182,152,50263,Aragón,Comunidad de Calatayud
+648,Torrijo del Campo,44.0,Spain,"PLUMED MALO, RICARDO",288,280,44232,Aragón,Jiloca
+649,Tosos,68.6,Spain,"ANSON GOMEZ, JOSE LUIS",110,100,50264,Aragón,Campo de Cariñena
+650,Tramacastiel,47.3,Spain,"ALEGRE MONTERDE, SEBASTIAN",60,52,44234,Aragón,Comunidad de Teruel
+651,Tramacastilla,24.8,Spain,JOSE MIGUEL DELGADO ALMAZAN,63,65,44235,Aragón,Sierra de Albarracín
+652,Tramaced,15.4,Spain,"CASTEL PANZANO, DIEGO PABLO",57,42,22239,Aragón,Hoya de Huesca/Plana de Uesca
+653,Trasmoz,18.3,Spain,"MOLINER CEBOLLADA, JAVIER",34,31,50265,Aragón,Tarazona y el Moncayo
+654,Trasobares,71.8,Spain,"AZNAR IBAÑEZ, MILAGROS",106,87,50266,Aragón,Aranda
+655,Tronchón,57.1,Spain,"MOLINA MATEO, JOSÉ MANUEL",58,48,44236,Aragón,Maestrazgo
+656,Uncastillo,230.9,Spain,JOSE LUIS FELIPE EDUARDO ABENIA PARDOS,434,441,50267,Aragón,Cinco Villas
+657,Undués de Lerda,43.0,Spain,"ARBONIES MOLINER, JUAN",34,23,50268,Aragón,Cinco Villas
+658,Urrea de Gaén,41.1,Spain,"TOMAS TOMAS, ANGEL DANIEL",288,292,44237,Aragón,Bajo Martín
+659,Urrea de Jalón,25.6,Spain,"LAZARO DOMINGUEZ, MARIA CARMEN",179,168,50269,Aragón,Valdejalón
+660,Urriés,37.3,Spain,"ARBONIES PEREZ, ROBERTO",39,25,50270,Aragón,Cinco Villas
+661,Used,85.3,Spain,"SANCHEZ PEREZ, Mª CARMEN",187,153,50271,Aragón,Campo de Daroca
+662,Utebo,17.7,Spain,"DALMAU BLANCO, MIGUEL",6393,6207,50272,Aragón,D.C. Zaragoza
+663,Utrillas,39.8,Spain,"VILAR MIRALLES, JOSE FRANCISCO",1658,1534,44238,Aragón,Cuencas Mineras
+664,Val de San Martín,25.7,Spain,"SEBASTIAN BELLO, JOSE LUIS",42,43,50274,Aragón,Campo de Daroca
+665,Valacloche,15.0,Spain,"RABANETE MORENO, Mª CARMEN",12,8,44239,Aragón,Comunidad de Teruel
+666,Valbona,40.7,Spain,"SANZ HERRERO, VICTOR",105,97,44240,Aragón,Gúdar-Javalambre
+667,Valdealgorfa,46.9,Spain,"GIMENO CUELLA, Mª REYES",354,367,44241,Aragón,Bajo Aragón
+668,Valdecuenca,18.6,Spain,"MARCO BENEDICTO, ARTURO",21,17,44243,Aragón,Sierra de Albarracín
+669,Valdehorna,7.9,Spain,"LAVILLA MARTIN, BENJAMIN",27,26,50273,Aragón,Campo de Daroca
+670,Valdelinares,55.1,Spain,DAVIR BENAGES GARGALLO,74,58,44244,Aragón,Gúdar-Javalambre
+671,Valdeltormo,16.0,Spain,"TIMONEDA PUYO, JOSÉ MIGUEL",195,172,44245,Aragón,Matarraña/Matarranya
+672,Valderrobres,124.0,Spain,"BONÉ AMELA, CARLOS LUIS",1074,944,44246,Aragón,Matarraña/Matarranya
+673,Valfarta,33.2,Spain,"LABRADOR USON, ALBERTO",56,42,22242,Aragón,Los Monegros
+674,Valjunquera,41.8,Spain,"BRENCHAT GIL, ISMAEL",219,209,44247,Aragón,Matarraña/Matarranya
+675,Valle de Bardají,45.5,Spain,"RASO CASTILLON, JOSE MARIA",29,25,22243,Aragón,La Ribagorza
+676,Valle de Hecho,234.4,Spain,"GUTIERREZ LARRIPA, LUIS",513,481,22901,Aragón,La Jacetania
+677,Valle de Lierp,32.8,Spain,"ARIÑO CASTEL, JOSE MARIA",27,24,22244,Aragón,La Ribagorza
+678,Vallecillo (El),21.6,Spain,"GIMENEZ SORIANO, PASCUAL",32,23,44249,Aragón,Sierra de Albarracín
+679,Valmadrid,50.6,Spain,"LOPEZ ARNAL, ALFREDO",63,38,50275,Aragón,Campo de Belchite
+680,Valpalmas,39.8,Spain,"LAFUENTE DIESTE, JOSE",84,85,50276,Aragón,Cinco Villas
+681,Valtorres,3.3,Spain,"GARCIA FLOREZ, FRANCISCO JAVIER",47,54,50277,Aragón,Comunidad de Calatayud
+682,Veguillas de la Sierra,13.7,Spain,"GOMEZ JIMENEZ, ILDEFONSO",17,10,44250,Aragón,Comunidad de Teruel
+683,Velilla de Cinca,16.5,Spain,MARIA BELEN IBARZ IBARZ,223,223,22245,Aragón,Bajo Cinca/Baix Cinca
+684,Velilla de Ebro,59.8,Spain,"GOMEZ PUYOLES, Mª ROSARIO",121,128,50278,Aragón,Ribera Baja del Ebro
+685,Velilla de Jiloca,10.4,Spain,"RUIZ LOPEZ, Mª ANGELES",59,58,50279,Aragón,Comunidad de Calatayud
+686,Vencillón,10.4,Spain,"CAPEL VITALES, RAMON",247,219,22909,Aragón,La Litera/La Llitera
+687,Vera de Moncayo,27.7,Spain,"SANCHEZ RIERA, Mª ANGELES",233,215,50280,Aragón,Tarazona y el Moncayo
+688,Veracruz,,Spain,,58,51,,Aragón,
+689,Viacamp y Litera,107.7,Spain,"POCIELLO COLOMINA, ALFREDO",18,10,22247,Aragón,La Ribagorza
+690,Vicién,13.8,Spain,"BRETOS BOLEA, ALFREDO",65,55,22248,Aragón,Hoya de Huesca/Plana de Uesca
+691,Vierlas,2.7,Spain,"RESANO LAHERA, PEDRO J.",51,52,50281,Aragón,Tarazona y el Moncayo
+692,Villadoz,17.2,Spain,"GIMENEZ SANTOLARIA, Mª ASCENSION",44,35,50283,Aragón,Campo de Daroca
+693,Villafeliche,22.5,Spain,"CARO ESTEBAN, AGUSTIN",121,114,50284,Aragón,Comunidad de Calatayud
+694,Villafranca de Ebro,63.6,Spain,"GONZALEZ ANSON, ROBERTO",331,341,50285,Aragón,D.C. Zaragoza
+695,Villafranca del Campo,66.5,Spain,"NAVARRO ANDRES, MIGUEL ANGEL",193,178,44251,Aragón,Jiloca
+696,Villahermosa del Campo,19.2,Spain,"RAMO APARICIO, JOSE ANTONIO",45,42,44252,Aragón,Jiloca
+697,Villalba de Perejil,13.3,Spain,"CONDON GORMAZ, EDUARDO",61,54,50286,Aragón,Comunidad de Calatayud
+698,Villalengua,40.2,Spain,"VILLAR LECHON, ANA ISABEL",208,194,50287,Aragón,Comunidad de Calatayud
+699,Villamayor de Gállego,89.4,Spain,"MONTERO LOSTAO, JOSE LUIS",0,0,50903,Aragón,D.C. Zaragoza
+700,Villanova,6.9,Spain,"PLAZA LOMILLOS, MIGUEL ANGEL",66,68,22249,Aragón,La Ribagorza
+701,Villanueva de Gállego,76.0,Spain,"GAYAN CARCELLER, JESUS",1758,1730,50288,Aragón,D.C. Zaragoza
+702,Villanueva de Huerva,78.4,Spain,"GOMEZ FAURE, FELIPE",308,277,50290,Aragón,Campo de Cariñena
+703,Villanueva de Jiloca,7.3,Spain,"BLASCO LAFUENTE, ROSARIO",50,43,50289,Aragón,Campo de Daroca
+704,Villanueva de Sigena,146.4,Spain,"SALILLAS LACASA, ILDEFONSO",261,269,22251,Aragón,Los Monegros
+705,Villanueva del Rebollar de la Sierra,19.0,Spain,"ASCOZ JULIAN, FRANCISCO JAVIER",28,23,44256,Aragón,Cuencas Mineras
+706,Villanúa,58.2,Spain,"TERREN SANCLEMENTE, LUIS",186,159,22250,Aragón,La Jacetania
+707,Villar de los Navarros,49.5,Spain,"PRAT LUCIA, JOSE LUIS",66,74,50291,Aragón,Campo de Daroca
+708,Villar del Cobo,54.1,Spain,"PEREZ VALERO, FRANCISCO",112,106,44257,Aragón,Sierra de Albarracín
+709,Villar del Salz,38.7,Spain,"BORAO ISARRIA, ASCENSION",61,47,44258,Aragón,Jiloca
+710,Villarluengo,159.9,Spain,"DOMINGO RAMO, JOSE ANTONIO",125,88,44260,Aragón,Maestrazgo
+711,Villarquemado,56.4,Spain,"SERRANO PARICIO, FEDERICO",479,449,44261,Aragón,Comunidad de Teruel
+712,Villarreal de Huerva,27.1,Spain,JOSE VALERO MARTIN,107,82,50292,Aragón,Campo de Daroca
+713,Villarroya de la Sierra,91.6,Spain,"TORRUBIA ACON, EUGENIO",327,305,50293,Aragón,Comunidad de Calatayud
+714,Villarroya de los Pinares,66.4,Spain,ARTURO MARTÍN CALVO,103,90,44262,Aragón,Maestrazgo
+715,Villarroya del Campo,16.9,Spain,"FRANCO SEDILES, JOSE CARLOS",39,39,50294,Aragón,Campo de Daroca
+716,Villastar,39.0,Spain,MARIA LUISA ROMERO FUERTES,175,163,44263,Aragón,Comunidad de Teruel
+717,Villel,85.4,Spain,JUAN JOSE RODERO PRIETO,191,156,44264,Aragón,Comunidad de Teruel
+718,Vilueña (La),8.6,Spain,"TOMEY TOMEY, CARMELO JOSE",48,63,50282,Aragón,Comunidad de Calatayud
+719,Vinaceite,50.1,Spain,"BIELSA CLEMENTE, ALFREDO",143,139,44265,Aragón,Bajo Martín
+720,Visiedo,48.9,Spain,PEDRO ANDRES ARANDIA FERNANDEZ,87,102,44266,Aragón,Comunidad de Teruel
+721,Vistabella,21.8,Spain,"SERRANO ANDRES, Mª ANGELES",20,15,50295,Aragón,Campo de Cariñena
+722,Vivel del Río Martín,51.2,Spain,"GALVE DOMINGO, SERGIO",44,40,44267,Aragón,Cuencas Mineras
+723,Yebra de Basa,90.9,Spain,"AVELLANA MURO, ERNESTO",98,70,22252,Aragón,Alto Gállego
+724,Yésero,30.2,Spain,"ACIN SANROMAN, MARÍA JESÚS",49,29,22253,Aragón,Alto Gállego
+725,Zaida (La),17.3,Spain,"SORIANO CASAMIAN, SALVADOR",284,284,50296,Aragón,Ribera Baja del Ebro
+726,Zaidín,92.6,Spain,"IBARZ GUILLEN, MARCO ANTONIO",883,843,22254,Aragón,Bajo Cinca/Baix Cinca
+727,Zaragoza,973.7,Spain,"BELLOCH JULVE, JUAN ALBERTO",302059,324022,50297,Aragón,D.C. Zaragoza
+728,Zoma (La),14.5,Spain,"MEMBRADO FERRER, JUAN MANUEL",14,14,44268,Aragón,Cuencas Mineras
+729,Zuera,332.2,Spain,ANTONIO JESUS BOLEA GABALDON,3005,2830,50298,Aragón,D.C. Zaragoza
+730,Épila,194.3,Spain,"LLANAS GASPAR, MARTIN",2130,1920,50099,Aragón,Valdejalón
