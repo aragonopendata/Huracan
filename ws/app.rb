@@ -80,6 +80,10 @@ get '/tracks' do
   end
 end
 
+get '/tracks/:id' do
+  erb :show
+end
+
 get '/' do
   erb :index
 end
