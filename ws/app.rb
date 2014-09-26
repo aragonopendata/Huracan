@@ -54,6 +54,17 @@ get '/track/:id/altitude_profile' do
   gpxinfo.altitude_profile.to_json
 end
 
+get '/track/:id/altitude_profile.csv' do
+  content_type 'text/plain'
+
+  id = params[:id]
+
+  gpxinfo = GPXInfo.new(get_gpx(id))
+  csv = []
+  gpxinfo.altitude_profile.each { |p| csv << "#{p[0]}, #{p[1]}" }
+  csv.join("\n")
+end
+
 get '/track/:id/info' do
   content_type :json
 
