@@ -1,7 +1,5 @@
-require 'sinatra'
 require 'open-uri'
 require 'json'
-require 'sinatra/reloader'
 #require_relative 'gpx'
 
 configure do
@@ -25,8 +23,16 @@ end
 # return the waypoints with photos in a given track id
 get '/track/:id/photos' do
   id = params[:id]
+
   wps = JSON.parse(open("#{settings.base_url}/get_waypoints.php?id=#{id}").read)
-  wps.find_all{ |wp| wp['photo'] != nil }.to_json
+
+  # discard waypoints without photos
+  wps = wps.find_all { |wp| wp['photo'] != nil }
+
+  # change photo filename for URL
+  wps.each do |wp|
+    wp['photo'] = "http://senderos.turismodearagon.com/fotos/#{wp["photo"]}"
+  end.to_json
 end
 
 get '/' do
