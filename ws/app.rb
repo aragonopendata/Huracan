@@ -2,6 +2,7 @@ require 'open-uri'
 require 'json'
 require 'fileutils'
 require_relative 'lib/gpxinfo'
+require_relative 'lib/cartodb'
 require_relative 'helpers'
 
 configure do
@@ -71,6 +72,12 @@ get '/track/:id/info' do
   id = params[:id]
 
   GPXInfo.new(get_gpx(id)).distances.to_json
+end
+
+get '/tracks' do
+  tracks = CartoDB.get_tracks.collect do |r|
+    r['name']
+  end
 end
 
 get '/' do
