@@ -1,0 +1,58 @@
+body{background: url("http://www.kucuu.com/desktop-wallpaper-home/Bridge-Bridges-Nature-Forest-Forests-Wallpaper-1920x1080.jpg") no-repeat fixed;
+     background-size: 100%;
+}
+#head{text-align: center; 
+      width: 100%;
+      color: black;
+      font-size: 40px;
+      font-family: serif;
+      margin-bottom: 2%;
+      color: gainsboro;
+      font-weight: bold;
+}
+#container_principal{
+    padding-top: 3%;
+    width: 80%; 
+    height: 800px; 
+    background-color: white; 
+    margin: auto;
+    -webkit-box-shadow: 3px 6px 6px black;
+    -moz-box-shadow: 3px 6px 6px black;
+    box-shadow: 3px 6px 6px black;
+    border-radius: 5px;
+}
+#map{width: 90%;
+     height: 450px;
+     background-color: gray;
+     margin: auto;
+     padding-top: 5%;
+     background-color: gainsboro;
+     -webkit-box-shadow: 2px 6px 8px black;
+     -moz-box-shadow: 2px 6px 8px black;
+     box-shadow: 2px 6px 8px black;
+     border-radius: 3px;
+}
+#search{
+    margin-top: 2%;
+    height: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#text{
+    margin-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-weight: bold;
+}
+#footer{color: gainsboro; 
+        font-weight: bold;
+        margin-top: 1%;}
+span{float: right;}
+.twitter-share-button{padding-right: -1%;}
+input[type=text]{background-color: white;
+                 border-radius: 8px;
+                 height: 30px;
+                 -webkit-box-shadow: 1px 2px 2px black;
+                 -moz-box-shadow: 1px 2px 2px black;
+                 box-shadow: 1px 2px 2px black;
+}
