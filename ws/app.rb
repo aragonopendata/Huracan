@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'open-uri'
 require 'json'
+require 'sinatra/reloader'
 #require_relative 'gpx'
 
 configure do
@@ -26,4 +27,8 @@ get '/track/:id/photos' do
   id = params[:id]
   wps = JSON.parse(open("#{settings.base_url}/get_waypoints.php?id=#{id}").read)
   wps.find_all{ |wp| wp['photo'] != nil }.to_json
+end
+
+get '/' do
+  'Aragon Open Data!'
 end
