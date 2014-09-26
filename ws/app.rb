@@ -81,9 +81,11 @@ get '/tracks' do
 end
 
 get '/tracks/:id' do
+  @js_asset = 'show'
   erb :show
 end
 
 get '/' do
+  @js_asset = 'index'
   erb :index
 end
