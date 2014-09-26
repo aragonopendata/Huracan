@@ -1,0 +1,13 @@
+* Query to match tracks names with a search term. The term must be converted to uppercase before inserting it in the query
+Ex. I want to look for tracks with "jaca" word in the name
+SELECT * FROM tracks WHERE upper(name) LIKE '%JACA%';
+
+
+* Query to get the list of top 10 tracks by distance to a point
+Ex. Top 10 results by distance to point with lat/lon 1.6500, 42.8167
+SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t WHERE track_seg_point_id = 0 AND tp.track_fid = t.ogc_fid ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(1.6500, 42.8167),4326)::geography) ASC LIMIT 10
+
+
+* Query to get the list of top 10 tracks by distance to a point
+Ex. Top 10 results by distance to point with lat/lon 1.6500, 42.8167 whose name contains the text "bello"
+SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t WHERE track_seg_point_id = 0 AND tp.track_fid = t.ogc_fid AND upper(t.name) LIKE '%BELLO%' ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(1.6500, 42.8167),4326)::geography) ASC LIMIT 10
