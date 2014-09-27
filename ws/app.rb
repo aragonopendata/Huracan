@@ -125,7 +125,6 @@ get '/tracks' do
   }
 
   if params[:lat] and params[:lon]
-    slkjsldkjflkjdsf
     options['lat'] = params[:lat]
     options['lon'] = params[:lon]
   end
