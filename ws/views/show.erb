@@ -24,6 +24,14 @@
           <img src="/track/<%= @track_id %>/altitude_profile.png">
         </div>
 
+        <!-- Example iterate hotels -->
+        <div>
+        <% @hotels.each do |h| %>
+        <%= h %>
+        <% end %>
+        </div>
+        <!-- End Example iterate hotels -->
+
         <div class="result-content">
           <p>
           <%= @cartodb_obj['_desc'] %>

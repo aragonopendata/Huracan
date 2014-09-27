@@ -3,6 +3,7 @@ require 'json'
 require 'fileutils'
 require_relative 'lib/gpxinfo'
 require_relative 'lib/cartodb'
+require_relative 'lib/nominatim'
 require_relative 'helpers'
 
 configure do
@@ -139,6 +140,9 @@ get '/tracks/:id' do
   @track_id = params[:id]
   @cartodb_obj = CartoDB.get_track(@track_id)
   @distances = GPXInfo.new(get_gpx(@track_id)).distances
+
+  municipality = CartoDB.get_nearest_municipality(@cartodb_obj['lon'], @cartodb_obj['lat'])
+  @hotels = Nominatim.hotels(municipality, 2).collect {|h| h['display_name']}
 
   erb :show
 end
