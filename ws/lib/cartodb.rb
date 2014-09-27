@@ -26,7 +26,7 @@ class CartoDB
 
     geo = false
     if !options['lat'].nil? && !options['lon'].nil?
-      distance_column = "ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{options['lat']}, #{options['lon']}),4326)::geography) AS distance"
+      distance_column = "ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{options['lon']}, #{options['lat']}),4326)::geography) AS distance"
       sql_order = " ORDER BY distance ASC"
       sql_fields << distance_column
       geo = true
@@ -50,19 +50,6 @@ class CartoDB
     puts sql
     send_query(sql)
   end
-
-  #def self.get_tracks_by_distance(lat, lon, top = 10)
-  #  sql = "
-  #    SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t 
-  #    WHERE track_seg_point_id = 0 
-  #      AND tp.track_fid = t.fid 
-  #      AND upper(t.name) LIKE '%BELLO%' 
-  #    ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{lat}, #{lon}),4326)::geography) 
-  #      ASC 
-  #    LIMIT #{top}
-  #  "
-  #  send_query(sql)
-  #end
 
   private
 

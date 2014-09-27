@@ -45,6 +45,24 @@ get '/track/:id/photos' do
   end.to_json
 end
 
+get '/track/:id/photo.jpg' do
+  content_type 'image/jpg'
+
+  id = params[:id]
+
+  wps = JSON.parse(open("#{settings.base_url}/get_waypoints.php?id=#{id}").read)
+
+  # discard waypoints without photos
+  wps = wps.find_all { |wp| wp['photo'] != nil }
+
+  # change photo filename for URL
+  photo = wps.each do |wp|
+    wp['photo'] = "http://senderos.turismodearagon.com/fotos/#{wp["photo"]}"
+  end.first['photo'] rescue ''
+
+  photo
+end
+
 get '/track/:id/altitude_profile' do
   content_type :json
 
