@@ -137,6 +137,10 @@ get '/tracks/:id' do
   erb :show
 end
 
+get '/nearest_municipality' do
+  CartoDB.get_nearest_municipality(params[:lon], params[:lat])[0]['name']
+end
+
 get '/' do
   @js_asset = 'index'
 
