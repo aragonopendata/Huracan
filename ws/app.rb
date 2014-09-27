@@ -109,8 +109,8 @@ end
 get '/tracks/:id' do
   @js_asset = 'show'
   @track_id = params[:id]
-
   @distances = GPXInfo.new(get_gpx(@track_id)).distances
+
   erb :show
 end
 
