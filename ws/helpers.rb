@@ -79,4 +79,8 @@ helpers do
 
   end
 
+  def gpx_distances(id)
+    GPXInfo.new(get_gpx(id)).distances
+  end
+
 end
