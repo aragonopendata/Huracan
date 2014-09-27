@@ -58,9 +58,9 @@ get '/track/:id/photo.jpg' do
   # change photo filename for URL
   photo = wps.each do |wp|
     wp['photo'] = "http://senderos.turismodearagon.com/fotos/#{wp["photo"]}"
-  end.first['photo'] rescue ''
+  end.first
 
-  photo
+  open(get_photo(photo['photo'])).read
 end
 
 get '/track/:id/altitude_profile' do

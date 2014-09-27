@@ -11,21 +11,17 @@
     <ul>
       <li class="result clearfix">
         <div class="result-header clearfix">
-          <img src="/img/thumbnails/peonera_ermita_ficha.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
+          <img src="/track/<%= @track_id %>/photo.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
 
           <h3 class="result-title"><%= @cartodb_obj['name'] %></h3>
           <div class="result-description">
-            <p><i class="icon i-distance"></i><%= @cartodb_obj['horizontal_distance'].to_f/1000 %> km</p>
-            <p><i class="icon i-time"></i><%= @cartodb_obj['aproximated_time'] %> minutes</p>
+            <p><i class="icon i-distance"></i><%= @cartodb_obj['horizontal_distance'].to_f/10 %> km</p>
+            <p><i class="icon i-time"></i><%= @cartodb_obj['aproximated_time'] %> min</p>
+            <p><i class="icon i-elevation"></i><%= @distances[:max_elevation].to_i %> m</p>
           </div>
         </div>
         <div>
           <img src="/track/<%= @track_id %>/altitude_profile.png">
-        </div>
-        <div>
-          <div>
-            <strong>Elevación máxima: </strong><span><%= @distances[:max_elevation] %> m</span>
-          </div>
         </div>
 
         <div class="result-content">
