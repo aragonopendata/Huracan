@@ -85,6 +85,15 @@ get '/track/:id/info' do
   GPXInfo.new(get_gpx(id)).distances.to_json
 end
 
+get '/track/:id' do
+  content_type :json
+
+  id = params[:id]
+
+  @track = CartoDB.get_track(id)
+  @track.to_json
+end
+
 get '/tracks' do
   @tracks = CartoDB.get_tracks(
     {
