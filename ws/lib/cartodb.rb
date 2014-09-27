@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'json'
-require 'byebug'
+#require 'byebug'
 
 class CartoDB
 
@@ -13,9 +13,11 @@ class CartoDB
                     "fid AS track_id"
                   ]
 
+
   def self.get_track(track_id)
-    sql_fields = TRACK_COLUMNS.join(', ')
-    sql = "SELECT #{sql_fields} FROM tracks where fid=#{track_id}"
+    sql_fields = TRACK_COLUMNS.map {|c| "t.#{c}"}
+    sql = "SELECT ST_X(tp.the_geom) as lon, ST_Y(tp.the_geom) as lat, #{sql_fields.join(', ')} FROM tracks t, track_points tp WHERE t.fid = tp.track_fid AND tp.track_seg_point_id = 0 AND fid=#{track_id}"
+    puts sql
     send_query(sql)[0]
   end
 
@@ -32,6 +34,9 @@ class CartoDB
       geo = true
     end
 
+    sql_fields << "ST_X(tp.the_geom) as lon"
+    sql_fields << "ST_Y(tp.the_geom) as lat"
+
     sql_filters = []
     if !options['term'].nil?
       sql_filters << " AND upper(t.name) LIKE '%#{options['term'].upcase}%' "
@@ -41,13 +46,12 @@ class CartoDB
 
     sql = "
       SELECT #{sql_fields.join(', ')} FROM track_points tp, tracks t
-      WHERE track_seg_point_id = 0
+      WHERE tp.track_seg_point_id = 0
         AND tp.track_fid = t.fid
       #{sql_filters.join("")}
       #{sql_order if geo}
       #{limit_sql if !limit_sql.nil?}
     "
-    puts sql
     send_query(sql)
   end
 
