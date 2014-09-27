@@ -1,5 +1,6 @@
 helpers do
   require 'gruff'
+  require 'uri'
 
   def get_gpx(id)
     gpx_cache = settings.cache_dir + "/gpx"
@@ -14,6 +15,23 @@ helpers do
     end
 
     gpx_file
+  end
+
+  def get_photo(url)
+    photo_cache = settings.cache_dir + "/photo"
+
+    uri = URI.parse url
+    photo_file = photo_cache + "/#{File.basename(uri.path)}"
+
+    FileUtils.mkdir_p photo_cache
+
+    return photo_file if File.exist?(photo_file)
+
+    open(photo_file, 'w') do |f|
+      f.puts open(url).read
+    end
+
+    photo_file
   end
 
   def x_ticks(data, num = 6)
@@ -59,6 +77,10 @@ helpers do
 
     img_file
 
+  end
+
+  def gpx_distances(id)
+    GPXInfo.new(get_gpx(id)).distances
   end
 
 end

@@ -58,9 +58,9 @@ get '/track/:id/photo.jpg' do
   # change photo filename for URL
   photo = wps.each do |wp|
     wp['photo'] = "http://senderos.turismodearagon.com/fotos/#{wp["photo"]}"
-  end.first['photo'] rescue ''
+  end.first
 
-  photo
+  open(get_photo(photo['photo'])).read
 end
 
 get '/track/:id/altitude_profile' do
@@ -135,6 +135,10 @@ get '/tracks/:id' do
   @distances = GPXInfo.new(get_gpx(@track_id)).distances
 
   erb :show
+end
+
+get '/nearest_municipality' do
+  CartoDB.get_nearest_municipality(params[:lon], params[:lat])
 end
 
 get '/' do

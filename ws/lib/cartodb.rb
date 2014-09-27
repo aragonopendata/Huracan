@@ -51,6 +51,16 @@ class CartoDB
     send_query(sql)
   end
 
+  def self.get_nearest_municipality(lon, lat)
+    distance_column = "ST_Distance(m.the_geom::geography, ST_SetSRID(ST_Point(#{lon}, #{lat}),4326)::geography) AS distance"
+    sql = "
+      SELECT m.name, #{distance_column} FROM municipios_geocoded m
+      ORDER BY distance asc
+      LIMIT 1
+    "
+    send_query(sql)[0]['name']
+  end
+
   private
 
   def self.send_query(sql)
