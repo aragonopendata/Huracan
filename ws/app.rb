@@ -116,14 +116,20 @@ get '/tracks' do
   @js_asset = 'index'
   @title = params[:term]
 
-  @tracks = CartoDB.get_tracks(
-    {
-      'term' => params[:term],
-      'lat' => params[:lat],
-      'lon' => params[:lon],
-      'limit' => params[:limit]
-    }
-  )
+  params.map { |k,v| params[k] = nil if v.strip.chomp.empty? }
+
+  options = {
+    'term' => params[:term],
+    'limit' => params[:limit]
+  }
+
+  if params[:lat] and params[:lon]
+    slkjsldkjflkjdsf
+    options['lat'] = params[:lat]
+    options['lon'] = params[:lon]
+  end
+
+  @tracks = CartoDB.get_tracks(options)
 
   erb :index
 end
