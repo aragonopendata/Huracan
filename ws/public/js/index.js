@@ -3,13 +3,13 @@ App.Views.Index = Backbone.View.extend({
 
   events: {
     'click': '_close',
-    'click .nav input': '_onClickInput',
-    'click .nav button': '_onClickButton'
+    'click #input': '_onClickInput',
+    'click #submit': '_onClickButton'
   },
 
   initialize: function() {
     this.$title = this.$('.site-title');
-    this.$input = this.$('.nav input');
+    this.$input = this.$('#input');
 
     this._initViews();
   },

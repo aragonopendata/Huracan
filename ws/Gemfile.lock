@@ -2,7 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.6.1)
+    byebug (3.4.2)
+      columnize (~> 0.8)
+      debugger-linecache (~> 1.2)
+      slop (~> 3.6)
+    columnize (0.8.9)
     daemons (1.1.9)
+    debugger-linecache (1.2.0)
     eventmachine (1.0.3)
     gpx (0.6)
     gruff (0.5.1)
@@ -38,6 +44,7 @@ GEM
       sinatra (>= 1.0.0)
     sinatra-static-assets (1.0.4)
       sinatra (>= 1.1.0)
+    slop (3.6.0)
     thin (1.6.2)
       daemons (>= 1.0.9)
       eventmachine (>= 1.0.0)
@@ -48,6 +55,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   gpx
   gruff
   haversine

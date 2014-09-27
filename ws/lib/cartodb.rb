@@ -1,5 +1,6 @@
 require 'open-uri'
 require 'json'
+require 'byebug'
 
 class CartoDB
 
