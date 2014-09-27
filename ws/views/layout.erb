@@ -15,9 +15,9 @@
 
   <%= yield %>
 
-  <% if @track_id %>
+  <% if @tracks_id %>
   <script>
-    var track_id = <%= @track_id %>
+    var tracks_id = [<%= @tracks_id %>];
   </script>
   <% end %>
 

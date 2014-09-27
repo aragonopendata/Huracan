@@ -114,7 +114,7 @@ get '/track/:id' do
 end
 
 get '/tracks' do
-  @js_asset = 'index'
+  @js_asset = 'tracks'
   @title = params[:term]
 
   params.map { |k,v| params[k] = nil if v.strip.chomp.empty? }
@@ -130,13 +130,15 @@ get '/tracks' do
   end
 
   @tracks = CartoDB.get_tracks(options)
+  @tracks_id = @tracks.map { |t| t['track_id'] }.join(', ')
 
-  erb :index
+  erb :tracks
 end
 
 get '/tracks/:id' do
   @js_asset = 'show'
   @track_id = params[:id]
+  @tracks_id = [params[:id]]
   @cartodb_obj = CartoDB.get_track(@track_id)
   @distances = GPXInfo.new(get_gpx(@track_id)).distances
 
