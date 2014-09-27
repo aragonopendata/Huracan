@@ -95,6 +95,9 @@ get '/track/:id' do
 end
 
 get '/tracks' do
+  @js_asset = 'index'
+  @title = params[:term]
+
   @tracks = CartoDB.get_tracks(
     {
       'term' => params[:term],
@@ -103,7 +106,8 @@ get '/tracks' do
       'limit' => params[:limit]
     }
   )
-  @tracks.to_json
+
+  erb :index
 end
 
 get '/tracks/:id' do
@@ -117,5 +121,8 @@ end
 
 get '/' do
   @js_asset = 'index'
+
+  @tracks = CartoDB.get_tracks()
+
   erb :index
 end

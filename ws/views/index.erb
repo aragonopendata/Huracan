@@ -13,45 +13,18 @@
 
   <div class="results">
     <ul>
+      <% @tracks.each do |track| %>
+      <% track_id = track['track_id'] %>
       <li class="result clearfix">
-        <a href="/tracks/149"><img src="/img/thumbnails/peonera_ermita_ficha.jpg" alt="" height="80px" width="80px" class="result-thumbnail" /></a>
+        <a href="/tracks/<%= track_id %>"><img src="/track/<%= track_id %>/photo.jpg" alt="" height="80px" width="80px" class="result-thumbnail" /></a>
 
-        <a href="/tracks/149" class="result-title">Los mil nombres de la ermita de San Martín</a>
+        <a href="/tracks/<%= track_id %>" class="result-title"><%= track['name'] %></a>
         <div class="result-description">
-          <p><i class="icon i-distance"></i> 2,6 km</p>
-          <p><i class="icon i-time"></i> 0:50 h</p>
+          <p><i class="icon i-distance"></i> <%= track['horizontal_distance'] %> km</p>
+          <p><i class="icon i-time"></i> <%= track['aproximated_time'] %> h</p>
         </div>
       </li>
-
-      <li class="result clearfix">
-        <img src="/img/thumbnails/encinacorba8117.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
-
-        <a href="/tracks/149" class="result-title">Encinacorba - Mirador de La Atalaya</a>
-        <div class="result-description">
-          <p><i class="icon i-distance"></i> 7,1 km</p>
-          <p><i class="icon i-time"></i> 2:20 h</p>
-        </div>
-      </li>
-
-      <li class="result clearfix">
-        <img src="/img/thumbnails/peonera_ermita_ficha.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
-
-        <a href="/tracks/149" class="result-title">Los mil nombres de la ermita de San Martín</a>
-        <div class="result-description">
-          <p><i class="icon i-distance"></i> 2,6 km</p>
-          <p><i class="icon i-time"></i> 0:50 h</p>
-        </div>
-      </li>
-
-      <li class="result clearfix">
-        <img src="/img/thumbnails/encinacorba8117.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
-
-        <a href="/tracks/149" class="result-title">Encinacorba - Mirador de La Atalaya</a>
-        <div class="result-description">
-          <p><i class="icon i-distance"></i> 7,1 km</p>
-          <p><i class="icon i-time"></i> 2:20 h</p>
-        </div>
-      </li>
+      <% end %>
     </ul>
   </div>
 </div>
