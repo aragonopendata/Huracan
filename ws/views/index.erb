@@ -1,10 +1,13 @@
 <header class="nav">
   <h1 class="site-title">Aragon Open Trails</h1>
-  <form action="/tracks">
+
+  <form id="form" action="/tracks">
     <input id="input" type="search" name="term" class="is-hidden" />
     <button id="submit" type="submit"><img src="/img/search.png"></button>
-    <input type="hidden" name="lat" />
-    <input type="hidden" name="lon" />
+    <a href="#" class="geo"><img src="/img/geo.png"></a>
+    <a href="#" class="geo-on is-hidden"><img src="/img/geo-on.png"></a>
+    <input id="lat" type="hidden" name="lat" />
+    <input id="lon" type="hidden" name="lon" />
   </form>
 </header>
 
