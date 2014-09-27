@@ -70,7 +70,7 @@ get '/track/:id/altitude_profile.png' do
   content_type 'image/png'
 
   id = params[:id]
-  size = params[:size] || '400x200'
+  size = params[:size] || '360x180'
 
   gpxinfo = GPXInfo.new(get_gpx(id))
   csv = []
@@ -99,6 +99,9 @@ end
 
 get '/tracks/:id' do
   @js_asset = 'show'
+  @track_id = params[:id]
+
+  @distances = GPXInfo.new(get_gpx(@track_id)).distances
   erb :show
 end
 
