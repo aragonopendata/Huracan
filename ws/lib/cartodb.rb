@@ -22,7 +22,7 @@ class CartoDB
     sql = "
       SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t 
       WHERE track_seg_point_id = 0 
-        AND tp.track_fid = t.ogc_fid 
+        AND tp.track_fid = t.fid 
       #{sql_filters.join("")}
     "
     send_query(sql)
@@ -32,7 +32,7 @@ class CartoDB
   #  sql = "
   #    SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t 
   #    WHERE track_seg_point_id = 0 
-  #      AND tp.track_fid = t.ogc_fid 
+  #      AND tp.track_fid = t.fid 
   #      AND upper(t.name) LIKE '%BELLO%' 
   #    ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{lat}, #{lon}),4326)::geography) 
   #      ASC 
