@@ -60,7 +60,9 @@ class GPXInfo
       descent_distance: @descent_distance
     }
 
-    h.each { |k,v| h[k] = Unit("#{v} m").to_s(@units) }
+    h.each { |k,v| h[k] = '%.2f' % Unit("#{v} m").to_s(@units).split()[0].strip }
+
+    h
   end
 
 end

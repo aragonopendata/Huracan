@@ -109,6 +109,8 @@ end
 get '/tracks/:id' do
   @js_asset = 'show'
   @track_id = params[:id]
+  @cartodb_obj = CartoDB.get_track(@track_id)
+  puts @cartodb_obj
   @distances = GPXInfo.new(get_gpx(@track_id)).distances
 
   erb :show
