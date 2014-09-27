@@ -24,52 +24,138 @@ body {
   clear: both;
 }
 
+.is-hidden {
+  display: none;
+}
 
 /* =Icons
 ----------------------------------------------- */
 
 .icon {
   display: inline-block;
-  width: 24px;
-  height: 24px;
   vertical-align: middle;
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  width: 24px;
+  height: 24px;
 }
-
+.i-l {
+  width: 22px;
+  height: 44px;
+}
 .i-distance {
   background-image: url('../img/distance.png');
 }
-
 .i-time {
-  background: url('../img/time.png');
+  background-image: url('../img/time.png');
+}
+.i-back {
+  background-image: url('../img/back.png');
 }
 
 
 /* =Index
 ----------------------------------------------- */
 
+.nav {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background: rgba(34,34,34,.9);
+}
+  .nav input {
+    width: calc(100% - 60px);
+    height: 60px;
+    padding: 8px;
+    border: 0;
+    font: 500 18px/44px Roboto, sans-serif;
+    background: transparent;
+    outline: none;
+    color: #fff;
+  }
+  .nav button {
+    float: right;
+    width: 44px;
+    height: 44px;
+    padding: 8px;
+    margin: 8px;
+    border: 1px solid rgb(254, 254, 254);
+    background-image: none;
+    background-color: transparent;
+    border-radius: 100%;
+    outline: none;
+  }
+    .nav button img {
+      width: 28px;
+      height: 28px;
+    }
+.back {
+  float: left;
+  display: block;
+  height: 44px;
+  width: 22px;
+  margin: 8px 0 8px 8px;
+}
+.site-title {
+  float: left;
+  margin: 8px;
+  font: 500 18px/44px Roboto, sans-serif;
+  color: #fff;
+}
+  .site-title.is-hidden {
+    display: none;
+  }
+  .site-title.truncate {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: calc(100% - 46px);
+    overflow: hidden;
+  }
 #map {
   width: 100%;
   height: 300px;
 }
-
+@media (min-width: 595px) and (orientation: landscape) {
+  #map {
+    height: 200px;
+  }
+}
 .result {
+  padding:8px;
   border-bottom: 1px solid #ccc;
 }
-
-.result:last-child {
-  border-bottom: 0;
-}
-
-
-.result img {
+  .result:last-child {
+    border-bottom: 0;
+  }
+.result-thumbnail {
   float: left;
-  height: 100px;
-  width: 100px;
+  margin-right: 8px;
 }
-
-
+.result-title {
+  margin-bottom: 8px;
+  font: 18px/1.2 Roboto, sans-serif;
+  text-decoration: none;
+  color: #444;
+}
 .result-description p {
   display: inline-block;
+  font-weight: 300;
   line-height: 24px;
+  color: #999;
 }
+.result-description i {
+  opacity: .3;
+}
+.result-content {
+  margin-top: 8px;
+}
+  .result-content p {
+    margin-bottom: 8px;
+  }
+    .result-content p:last-child {
+      margin-bottom: 0;
+    }
