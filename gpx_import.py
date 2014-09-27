@@ -101,6 +101,13 @@ cur.execute("ALTER TABLE tracks ADD COLUMN positive_difference float")
 cur.execute("ALTER TABLE tracks ADD COLUMN negative_difference float")
 cur.execute("ALTER TABLE tracks ADD COLUMN aproximated_time float")
 
+#cur.execute("ALTER TABLE track_points ADD COLUMN fid integer;")
+#cur.execute("UPDATE track_points SET fid=ogc_fid;")
+cur.execute("ALTER TABLE tracks ADD COLUMN fid integer;")
+cur.execute("UPDATE tracks SET fid=ogc_fid;")
+#cur.execute("ALTER TABLE waypoints ADD COLUMN fid integer;")
+#cur.execute("UPDATE waypoints SET fid=ogc_fid;")
+
 #for gpx in gpx_files:
 #    filename = os.path.basename(gpx)
 #    route_id = int(filename.split(".")[0])
