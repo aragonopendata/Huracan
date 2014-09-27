@@ -4,7 +4,8 @@ require 'json'
 
 class CartoDB
 
-  CARTODB_DOMAIN = 'jacathon-huracan.cartodb.com'
+  CARTODB_USERNAME = 'jacathon-huracan'
+  CARTODB_DOMAIN = "#{CARTODB_USERNAME}.cartodb.com"
   SQL_API_PREFIX = "http://#{CARTODB_DOMAIN}/api/v2/sql"
   TRACK_COLUMNS = [
                     "name", "_desc", "route_type", "route_classes", 
