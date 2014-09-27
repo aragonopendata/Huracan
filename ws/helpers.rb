@@ -38,9 +38,9 @@ helpers do
 
     g = Gruff::Line.new(size)
 
-    g.title = 'Altitude Profile'
     g.theme = Gruff::Themes::GREYSCALE
     g.line_width = 2
+    g.hide_legend = true
 
     distances = []
     altitudes = []
