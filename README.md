@@ -2,4 +2,4 @@
 
 ## http://bit.ly/aotrails
 
-![background](/web/images/Fondo-Verde.jpg)
+![background](/web/images/Fondo-Verde-Logo.png)
