@@ -66,6 +66,18 @@ get '/track/:id/altitude_profile.csv' do
   csv.join("\n")
 end
 
+get '/track/:id/altitude_profile.png' do
+  content_type 'image/png'
+
+  id = params[:id]
+  size = params[:size] || '400x200'
+
+  gpxinfo = GPXInfo.new(get_gpx(id))
+  csv = []
+  gpxinfo.altitude_profile.each { |p| csv << "#{p[0]}, #{p[1]}" }
+  File.read(altitude_profile_png(csv.join("\n"), id, size))
+end
+
 get '/track/:id/info' do
   content_type :json
 
@@ -81,9 +93,11 @@ get '/tracks' do
 end
 
 get '/tracks/:id' do
+  @js_asset = 'show'
   erb :show
 end
 
 get '/' do
+  @js_asset = 'index'
   erb :index
 end
