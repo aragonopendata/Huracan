@@ -10,6 +10,10 @@ App.Views.Index = Backbone.View.extend({
       .done(function(vis, layers) {
         var tracks_id_ = tracks_id.shift();
 
+        _.each(tracks_id, function(val, index) {
+          tracks_id_ += ' OR fid = '+val
+        });
+
         var map = vis.getNativeMap(),
             sql_query = 'SELECT * FROM tracks WHERE fid = '+tracks_id_;
 
