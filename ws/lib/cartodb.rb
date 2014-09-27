@@ -25,7 +25,7 @@ class CartoDB
 
     geo = false
     if !options['lat'].nil? && !options['lon'].nil?
-      distance_column = "ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{options['lat']}, #{options['lon']}),4326)::geography) AS distance"
+      distance_column = "ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{options['lon']}, #{options['lat']}),4326)::geography) AS distance"
       sql_order = " ORDER BY distance ASC"
       sql_fields << distance_column
       geo = true
