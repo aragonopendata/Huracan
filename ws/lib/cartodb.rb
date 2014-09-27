@@ -1,6 +1,5 @@
 require 'open-uri'
 require 'json'
-require 'debugger'
 
 class CartoDB
 
@@ -8,7 +7,6 @@ class CartoDB
   SQL_API_PREFIX="http://#{CARTODB_DOMAIN}/api/v2/sql"
 
   def self.get_tracks(options = {})
-    debugger
     options['term'] ||= ''
 
     sql_filters = []
