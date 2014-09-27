@@ -95,18 +95,19 @@ body {
     padding: 8px;
     margin: 8px;
   }
+    .nav a.back {
+      float: left;
+      display: block;
+      height: 44px;
+      width: 22px;
+      margin: 8px 0 8px 8px;
+      padding: 0;
+    }
     .nav button img,
     .nav a img {
       width: 28px;
       height: 28px;
     }
-.back {
-  float: left;
-  display: block;
-  height: 44px;
-  width: 22px;
-  margin: 8px 0 8px 8px;
-}
 .site-title {
   float: left;
   margin: 8px;

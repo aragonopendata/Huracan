@@ -1,14 +1,20 @@
 <header class="nav">
-  <h1 class="site-title">Aragon Open Trails</h1>
+  <% if params.empty? %>
+    <h1 class="site-title">Aragon Open Trails</h1>
 
-  <form id="form" action="/tracks">
-    <input id="input" type="search" name="term" class="is-hidden" />
-    <button id="submit" type="submit"><img src="/img/search.png"></button>
-    <a href="#" class="geo"><img src="/img/geo.png"></a>
-    <a href="#" class="geo-on is-hidden"><img src="/img/geo-on.png"></a>
-    <input id="lat" type="hidden" name="lat" />
-    <input id="lon" type="hidden" name="lon" />
-  </form>
+    <form id="form" action="/tracks">
+      <input id="input" type="search" name="term" class="is-hidden" />
+      <button id="submit" type="submit"><img src="/img/search.png"></button>
+      <a href="#" class="geo"><img src="/img/geo.png"></a>
+      <a href="#" class="geo-on is-hidden"><img src="/img/geo-on.png"></a>
+      <input id="lat" type="hidden" name="lat" />
+      <input id="lon" type="hidden" name="lon" />
+    </form>
+  <% else %>
+    <a href="/" class="back"><i class="icon i-l i-back"></i></a>
+
+    <h1 class="site-title truncate"><%= @cartodb_obj.nil? ? 'Search' : @cartodb_obj['name'] %></h1>
+  <% end %>
 </header>
 
 <div class="content">
@@ -25,7 +31,7 @@
         <div class="result-description">
           <p><i class="icon i-distance"></i> <%= track['horizontal_distance'] %> km</p>
           <p><i class="icon i-time"></i> <%= track['aproximated_time'] %> min</p>
-          <p><i class="icon i-elevation"></i> <%#= @distances[:max_elevation] %> 1429 m</p>
+          <p><i class="icon i-elevation"></i> <%= gpx_distances(track_id)[:max_elevation].to_i %> m</p>
         </div>
       </li>
       <% end %>

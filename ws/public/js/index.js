@@ -40,8 +40,7 @@ App.Views.Index = Backbone.View.extend({
   _onClickButton: function(e) {
     e.stopPropagation();
 
-debugger;
-    if (this.$input.val() == '' && (this.$lat == '' && this.$lon == '')) {
+    if (this.$input.val() == '' && (this.$lat.val() == '' && this.$lon.val() == '')) {
       e.preventDefault();
 
       this._toggle();
