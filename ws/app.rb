@@ -12,11 +12,10 @@ configure do
   set :base_url, "http://senderos.turismodearagon.com/visorprames/"
   set :tmp_dir, '/tmp/huracan_ws/tmp'
   set :cache_dir, '/tmp/huracan_ws/cache'
+  FileUtils.mkdir_p settings.tmp_dir
+  FileUtils.mkdir_p settings.cache_dir
+  FileUtils.mkdir_p settings.cache_dir + "/gpx"
 end
-
-FileUtils.mkdir_p settings.tmp_dir
-FileUtils.mkdir_p settings.cache_dir
-FileUtils.mkdir_p settings.cache_dir + "/gpx"
 
 before do
   headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, DELETE, OPTIONS"
