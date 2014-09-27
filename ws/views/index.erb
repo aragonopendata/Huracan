@@ -21,7 +21,8 @@
         <a href="/tracks/<%= track_id %>" class="result-title"><%= track['name'] %></a>
         <div class="result-description">
           <p><i class="icon i-distance"></i> <%= track['horizontal_distance'] %> km</p>
-          <p><i class="icon i-time"></i> <%= track['aproximated_time'] %> h</p>
+          <p><i class="icon i-time"></i> <%= track['aproximated_time'] %> min</p>
+          <p><i class="icon i-elevation"></i> <%#= @distances[:max_elevation] %> 1429 m</p>
         </div>
       </li>
       <% end %>
