@@ -1,12 +1,14 @@
 require 'open-uri'
 require 'json'
+require 'debugger'
 
 class CartoDB
 
   CARTODB_DOMAIN='jacathon-huracan.cartodb.com'
-  SQL_API_PREFIX="http://#{CARTODB_DOMAIN}/api/v1/sql"
+  SQL_API_PREFIX="http://#{CARTODB_DOMAIN}/api/v2/sql"
 
   def self.get_tracks(options = {})
+    debugger
     options['term'] ||= ''
 
     sql_filters = []
