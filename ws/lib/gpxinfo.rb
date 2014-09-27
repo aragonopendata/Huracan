@@ -17,6 +17,7 @@ class GPXInfo
     @flat_distance    = 0
     @units            = units
     @altitude_profile = []
+    @max_elevation    = 0
 
     calculate
   end
@@ -35,6 +36,7 @@ class GPXInfo
           d = Haversine.distance(p.lat, p.lon, prev_lat, prev_lon).to_meters
           @total_distance += d
           @altitude_profile << [@total_distance, p.elevation]
+          @max_elevation = p.elevation if p.elevation > @max_elevation
           if p.elevation > prev_elevation
             @ascent += (p.elevation - prev_elevation)
             @ascent_distance += d
@@ -57,7 +59,8 @@ class GPXInfo
       ascent: @ascent,
       ascent_distance: @ascent_distance,
       descent: @descent,
-      descent_distance: @descent_distance
+      descent_distance: @descent_distance,
+      max_elevation: @max_elevation
     }
 
     h.each { |k,v| h[k] = '%.2f' % Unit("#{v} m").to_s(@units).split()[0].strip }
