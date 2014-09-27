@@ -58,7 +58,7 @@ class CartoDB
       ORDER BY distance asc
       LIMIT 1
     "
-    send_query(sql)
+    send_query(sql)[0]['name']
   end
 
   private

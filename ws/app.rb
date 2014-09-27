@@ -138,7 +138,7 @@ get '/tracks/:id' do
 end
 
 get '/nearest_municipality' do
-  CartoDB.get_nearest_municipality(params[:lon], params[:lat])[0]['name']
+  CartoDB.get_nearest_municipality(params[:lon], params[:lat])
 end
 
 get '/' do
