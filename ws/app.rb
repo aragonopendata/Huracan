@@ -87,9 +87,7 @@ get '/track/:id/info' do
 end
 
 get '/tracks' do
-  CartoDB.get_tracks(params).collect do |r|
-    r['name']
-  end
+  @tracks = CartoDB.get_tracks(params)
 end
 
 get '/tracks/:id' do
