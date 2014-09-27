@@ -7,7 +7,7 @@ class GPXInfo
   # distance, elevation
   attr_reader :altitude_profile
 
-  def initialize(gpx_file, units = "km")
+  def initialize(gpx_file, units = "m")
     @gpx_file = GPX::GPXFile.new(gpx_file: gpx_file)
     @total_distance   = 0
     @ascent_distance  = 0
