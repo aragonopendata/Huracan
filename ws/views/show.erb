@@ -19,6 +19,20 @@
             <p><i class="icon i-time"></i> 0:50 h</p>
           </div>
         </div>
+        <div>
+          <img src="/track/<%= @track_id %>/altitude_profile.png">
+        </div>
+        <div>
+          <div>
+            <strong>Distancia en ascenso: </strong><span><%= @distances[:ascent_distance] %> </span>
+          </div>
+          <div>
+            <strong>Distancia en descenso: </strong><span><%= @distances[:descent_distance] %> </span>
+          </div>
+          <div>
+            <strong>Altitud: </strong><span><%= @distances[:ascent] %> </span>
+          </div>
+        </div>
 
         <div class="result-content">
           <p>¡Atención! No existe un aparcamiento al inicio de la ruta. La explanada que encontramos es una propiedad privada, por lo que no es posible dejar el coche allí. El aparcamiento más cercano está situado junto a la carretera a 2,5 Km antes del inicio de la ruta (dirección Bierge). Además la ruta no está señalizada.</p>
