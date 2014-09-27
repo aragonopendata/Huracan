@@ -13,7 +13,7 @@ App.Views.Index = Backbone.View.extend({
     cartodb.createVis('map', 'http://jacathon-huracan.cartodb.com/api/v2/viz/2e9a4b52-4622-11e4-bdaf-0e9d821ea90d/viz.json')
       .done(function(vis, layers) {
         var map = vis.getNativeMap(),
-            sql_query = 'SELECT * FROM tracks WHERE cartodb_id = 315';
+            sql_query = 'SELECT * FROM tracks WHERE fid = '+track_id;
 
         var sql = new cartodb.SQL({ user: 'jacathon-huracan' });
 

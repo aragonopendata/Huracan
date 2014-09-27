@@ -1,7 +1,7 @@
 <header class="nav">
   <a href="/" class="back"><i class="icon i-l i-back"></i></a>
 
-  <h1 class="site-title truncate">Los mil nombres de la ermita de San Martín</h1>
+  <h1 class="site-title truncate"><%= @cartodb_obj['name'] %></h1>
 </header>
 
 <div class="content">
@@ -13,7 +13,7 @@
         <div class="result-header clearfix">
           <img src="/img/thumbnails/peonera_ermita_ficha.jpg" alt="" height="80px" width="80px" class="result-thumbnail" />
 
-          <h3 class="result-title">Los mil nombres de la ermita de San Martín</h3>
+          <h3 class="result-title"><%= @cartodb_obj['name'] %></h3>
           <div class="result-description">
             <p><i class="icon i-distance"></i><%= @cartodb_obj['horizontal_distance'].to_f/1000 %> km</p>
             <p><i class="icon i-time"></i><%= @cartodb_obj['aproximated_time'] %> minutes</p>

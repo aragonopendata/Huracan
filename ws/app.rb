@@ -87,7 +87,7 @@ get '/track/:id/altitude_profile.png' do
   content_type 'image/png'
 
   id = params[:id]
-  size = params[:size] || '360x180'
+  size = params[:size] || '344x172'
 
   gpxinfo = GPXInfo.new(get_gpx(id))
   csv = []

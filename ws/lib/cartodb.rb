@@ -37,7 +37,7 @@ class CartoDB
       sql_filters << " AND upper(t.name) LIKE '%#{options['term'].upcase}%' "
     end
 
-    limit_sql = options['limit'].nil? ? " LIMIT 10" : " LIMIT #{options['limit']}"
+    limit_sql = options['limit'].nil? ? " LIMIT 5" : " LIMIT #{options['limit']}"
 
     sql = "
       SELECT #{sql_fields.join(', ')} FROM track_points tp, tracks t
