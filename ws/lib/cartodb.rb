@@ -50,19 +50,6 @@ class CartoDB
     send_query(sql)
   end
 
-  #def self.get_tracks_by_distance(lat, lon, top = 10)
-  #  sql = "
-  #    SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t 
-  #    WHERE track_seg_point_id = 0 
-  #      AND tp.track_fid = t.fid 
-  #      AND upper(t.name) LIKE '%BELLO%' 
-  #    ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{lat}, #{lon}),4326)::geography) 
-  #      ASC 
-  #    LIMIT #{top}
-  #  "
-  #  send_query(sql)
-  #end
-
   private
 
   def self.send_query(sql)
