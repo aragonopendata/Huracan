@@ -15,7 +15,7 @@ App.Views.Index = Backbone.View.extend({
   },
 
   _initViews: function() {
-    cartodb.createVis('map', 'http://jacathon-huracan.cartodb.com/api/v2/viz/bb762f76-45ca-11e4-b06d-0e9d821ea90d/viz.json');
+    cartodb.createVis('map', 'http://jacathon-huracan.cartodb.com/api/v2/viz/2e9a4b52-4622-11e4-bdaf-0e9d821ea90d/viz.json');
   },
 
   _onClickButton: function(e) {
