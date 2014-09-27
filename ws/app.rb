@@ -87,15 +87,15 @@ get '/track/:id/info' do
 end
 
 get '/tracks' do
-  tracks = CartoDB.get_tracks({
-                                'term' => params[:term], 
-                                'lat' => params[:lat],
-                                'lon' => params[:lon],
-                                'limit' => params[:limit]
-                              }
-                             ).collect do |r|
-    r['name']
-  end
+  @tracks = CartoDB.get_tracks(
+    {
+      'term' => params[:term],
+      'lat' => params[:lat],
+      'lon' => params[:lon],
+      'limit' => params[:limit]
+    }
+  )
+  @tracks.to_json
 end
 
 get '/tracks/:id' do
