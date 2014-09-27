@@ -20,19 +20,19 @@
             <p><i class="icon i-elevation"></i><%= @distances[:max_elevation].to_i %> m</p>
           </div>
         </div>
-        <div>
-          <img src="/track/<%= @track_id %>/altitude_profile.png">
-        </div>
 
-        <!-- Example iterate hotels -->
-        <div>
-        <% @hotels.each do |h| %>
-        <%= h %>
-        <% end %>
+        <div class="result-ads">
+          <% @hotels.each do |h| %>
+            <p><strong><%= h.split(',')[0] %></strong><%= h.split(',')[1..-1].join(', ') %></p>
+          <% end %>
+          <p><small><a href="mailto:matallo+jacathon@gmail.com">Anunciate aquí</a></small></p>
         </div>
-        <!-- End Example iterate hotels -->
 
         <div class="result-content">
+          <p>
+            <img src="/track/<%= @track_id %>/altitude_profile.png">
+          </p>
+
           <p>
           <%= @cartodb_obj['_desc'] %>
           </p>

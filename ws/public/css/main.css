@@ -156,6 +156,22 @@ body {
 .result-description i {
   opacity: .3;
 }
+.result-ads {
+  margin: 20px 0;
+  padding: 8px;
+  border: 1px solid #fabada;
+  font-size: 13px;
+}
+  .result-ads p {
+    margin-bottom: 10px;
+  }
+  .result-ads strong {
+    display: block;
+    font-weight: bold;
+  }
+  .result-ads small {
+    font-size: 11px;
+  }
 .result-content {
   margin-top: 8px;
 }
