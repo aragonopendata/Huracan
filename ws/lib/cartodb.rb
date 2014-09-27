@@ -7,22 +7,22 @@ class CartoDB
   SQL_API_PREFIX="http://#{CARTODB_DOMAIN}/api/v1/sql"
 
   def self.get_tracks(options = {})
-    if options.empty?
-      raise "Wake up McFly!"
-    end
+    options['term'] ||= ''
+
     sql_filters = []
     if !options['term'].nil?
       sql_filters << " AND upper(t.name) LIKE '%#{options['term'].upcase}%' "
     end
+
     if !options['lat'].nil? && !options['lon'].nil?
       sql_filters << " ORDER BY ST_Distance(tp.the_geom::geography, ST_SetSRID(ST_Point(#{options['lat']}, #{options['lon']}),4326)::geography) ASC "
     end
-    sql_filters << options['limit'].nil? ? " LIMIT 10" : " LIMIT #{options['limit']}"
+    sql_filters << (options['limit'].nil? ? " LIMIT 10" : " LIMIT #{options['limit']}")
 
     sql = "
-      SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t 
-      WHERE track_seg_point_id = 0 
-        AND tp.track_fid = t.fid 
+      SELECT tp.cartodb_id, tp.ele, tp.the_geom, tp.the_geom_webmercator, t.name FROM track_points tp, tracks t
+      WHERE track_seg_point_id = 0
+        AND tp.track_fid = t.fid
       #{sql_filters.join("")}
     "
     send_query(sql)
